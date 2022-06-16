@@ -1,0 +1,1 @@
+cscape_somatic_query ./cscape_input_converted_MAF_DEG.csv -c /data/databases/CScape/CScape-20210624/css_coding.vcf.gz -n /data/databases/CScape/CScape-20210624/css_noncoding.vcf.gz -o ../results/cscape_DEG.txt -v

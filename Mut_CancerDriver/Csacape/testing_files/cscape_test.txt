@@ -1,0 +1,6 @@
+# Chromosome	Position	Reference	Mutant	Coding	Noncoding	Remark
+12	125561082	A	G	0.775279		Low-confidence
+12	125618592	C	T	0.786336		Low-confidence
+12	125612781	C	T	0.734811		Low-confidence
+12	125626718	C	G	0.549896		Low-confidence
+12	125613930	C	T	0.724150		Low-confidence

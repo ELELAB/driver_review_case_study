@@ -1,0 +1,4508 @@
+SYMBOL,TS,onco_gene
+AACS,Tumor_supressor,NA
+AARSD1,Tumor_supressor,NA
+ABCA10,Tumor_supressor,NA
+ABCA6,Tumor_supressor,NA
+ABCA9,Tumor_supressor,NA
+ABCB7,Tumor_supressor,NA
+ABCC10,Tumor_supressor,NA
+ABCC6,Tumor_supressor,NA
+ABCC9,Tumor_supressor,NA
+ABCF3,Tumor_supressor,NA
+ABCG1,Tumor_supressor,NA
+ABCG2,Tumor_supressor,NA
+ABHD12,Tumor_supressor,NA
+ABHD4,Tumor_supressor,NA
+ABHD5,Tumor_supressor,NA
+ABLIM3,Tumor_supressor,NA
+ABO,Tumor_supressor,NA
+ABTB1,Tumor_supressor,NA
+ACAA1,Tumor_supressor,NA
+ACACB,Tumor_supressor,NA
+ACAD10,Tumor_supressor,NA
+ACAD9,Tumor_supressor,NA
+ACADS,Tumor_supressor,NA
+ACAN,Tumor_supressor,NA
+ACAP1,Tumor_supressor,NA
+ACAT1,Tumor_supressor,NA
+ACBD3,Tumor_supressor,NA
+ACBD6,Tumor_supressor,NA
+ACD,Tumor_supressor,NA
+ACOT13,Tumor_supressor,NA
+ACOT9,Tumor_supressor,NA
+ACOX1,Tumor_supressor,NA
+ACOXL,Tumor_supressor,NA
+ACP1,Tumor_supressor,NA
+ACP5,Tumor_supressor,NA
+ACP6,Tumor_supressor,NA
+ACRBP,Tumor_supressor,NA
+ACSF3,Tumor_supressor,NA
+ACSS1,Tumor_supressor,NA
+ACTG1,Tumor_supressor,NA
+ACTL6A,Tumor_supressor,NA
+ACTN1,Tumor_supressor,NA
+ACTR10,Tumor_supressor,NA
+ACTR3,Tumor_supressor,NA
+ACTR5,Tumor_supressor,NA
+ACTR8,Tumor_supressor,NA
+ACVR1,Tumor_supressor,NA
+ACVR2B,Tumor_supressor,NA
+ACYP2,Tumor_supressor,NA
+ADAM10,Tumor_supressor,NA
+ADAM19,Tumor_supressor,NA
+ADAM9,Tumor_supressor,NA
+ADAMTS16,Tumor_supressor,NA
+ADAMTS6,Tumor_supressor,NA
+ADAMTSL1,Tumor_supressor,NA
+ADAMTSL2,Tumor_supressor,NA
+ADAT1,Tumor_supressor,NA
+ADCY3,Tumor_supressor,NA
+ADCY9,Tumor_supressor,NA
+ADHFE1,Tumor_supressor,NA
+ADRA1B,Tumor_supressor,NA
+AFAP1L1,Tumor_supressor,NA
+AGAP3,Tumor_supressor,NA
+AGAP5,Tumor_supressor,NA
+AGPAT4,Tumor_supressor,NA
+AGR3,Tumor_supressor,NA
+AGRP,Tumor_supressor,NA
+AGTPBP1,Tumor_supressor,NA
+AHCTF1,Tumor_supressor,NA
+AHCYL2,Tumor_supressor,NA
+AHCY,Tumor_supressor,NA
+AHI1,Tumor_supressor,NA
+AIM2,Tumor_supressor,NA
+AIMP1,Tumor_supressor,NA
+AK1,Tumor_supressor,NA
+AK3,Tumor_supressor,NA
+AKAP3,Tumor_supressor,NA
+AKAP6,Tumor_supressor,NA
+AKR1B15,Tumor_supressor,NA
+AKR1E2,Tumor_supressor,NA
+AKT1S1,Tumor_supressor,NA
+AKT3,Tumor_supressor,NA
+ALAD,Tumor_supressor,NA
+ALAS1,Tumor_supressor,NA
+ALCAM,Tumor_supressor,NA
+ALDH16A1,Tumor_supressor,NA
+ALDH1A1,Tumor_supressor,NA
+ALDH1A2,Tumor_supressor,NA
+ALDH2,Tumor_supressor,NA
+ALDH7A1,Tumor_supressor,NA
+ALG10,Tumor_supressor,NA
+ALG11,Tumor_supressor,NA
+ALG12,Tumor_supressor,NA
+ALG13,Tumor_supressor,NA
+ALG14,Tumor_supressor,NA
+ALG8,Tumor_supressor,NA
+ALKBH2,Tumor_supressor,NA
+ALKBH4,Tumor_supressor,NA
+ALOX15B,Tumor_supressor,NA
+ALOX15,Tumor_supressor,NA
+ALPL,Tumor_supressor,NA
+ALPP,Tumor_supressor,NA
+ALS2,Tumor_supressor,NA
+AMBRA1,Tumor_supressor,NA
+AMPD2,Tumor_supressor,NA
+AMPD3,Tumor_supressor,NA
+ANAPC16,Tumor_supressor,NA
+ANAPC1,Tumor_supressor,NA
+ANAPC4,Tumor_supressor,NA
+ANAPC5,Tumor_supressor,NA
+ANGPTL2,Tumor_supressor,NA
+ANG,Tumor_supressor,NA
+ANK2,Tumor_supressor,NA
+ANK3,Tumor_supressor,NA
+ANKIB1,Tumor_supressor,NA
+ANKRD26,Tumor_supressor,NA
+ANKRD37,Tumor_supressor,NA
+ANKRD52,Tumor_supressor,NA
+ANKRD54,Tumor_supressor,NA
+ANKRD6,Tumor_supressor,NA
+ANO1,Tumor_supressor,NA
+ANO5,Tumor_supressor,NA
+ANO9,Tumor_supressor,NA
+ANP32B,Tumor_supressor,NA
+ANP32E,Tumor_supressor,NA
+ANTXR2,Tumor_supressor,NA
+ANXA10,Tumor_supressor,NA
+ANXA3,Tumor_supressor,NA
+ANXA4,Tumor_supressor,NA
+AOC3,Tumor_supressor,NA
+AP1G2,Tumor_supressor,NA
+AP1M1,Tumor_supressor,NA
+AP3S1,Tumor_supressor,NA
+AP4M1,Tumor_supressor,NA
+APBA1,Tumor_supressor,NA
+APEX2,Tumor_supressor,NA
+APH1B,Tumor_supressor,NA
+APLF,Tumor_supressor,NA
+APLNR,Tumor_supressor,NA
+APOBEC4,Tumor_supressor,NA
+APOE,Tumor_supressor,NA
+APOH,Tumor_supressor,NA
+APOL2,Tumor_supressor,NA
+APOL3,Tumor_supressor,NA
+APOL6,Tumor_supressor,NA
+APOO,Tumor_supressor,NA
+APRT,Tumor_supressor,NA
+AQP7,Tumor_supressor,NA
+ARAP1,Tumor_supressor,NA
+ARAP3,Tumor_supressor,NA
+ARC,Tumor_supressor,NA
+ARF3,Tumor_supressor,NA
+ARF5,Tumor_supressor,NA
+ARFGEF1,Tumor_supressor,NA
+ARHGAP11A,Tumor_supressor,NA
+ARHGAP22,Tumor_supressor,NA
+ARHGAP26,Tumor_supressor,NA
+ARHGAP29,Tumor_supressor,NA
+ARHGAP42,Tumor_supressor,NA
+ARHGDIB,Tumor_supressor,NA
+ARHGEF11,Tumor_supressor,NA
+ARHGEF2,Tumor_supressor,NA
+ARHGEF38,Tumor_supressor,NA
+ARHGEF3,Tumor_supressor,NA
+ARID4A,Tumor_supressor,NA
+ARID5B,Tumor_supressor,NA
+ARIH1,Tumor_supressor,NA
+ARL13B,Tumor_supressor,NA
+ARL17A,Tumor_supressor,NA
+ARL2BP,Tumor_supressor,NA
+ARL6IP4,Tumor_supressor,NA
+ARMC2,Tumor_supressor,NA
+ARMC5,Tumor_supressor,NA
+ARMCX5,Tumor_supressor,NA
+ARMCX6,Tumor_supressor,NA
+ARPC1A,Tumor_supressor,NA
+ARPC1B,Tumor_supressor,NA
+ARPC4,Tumor_supressor,NA
+ARRDC1,Tumor_supressor,NA
+ARV1,Tumor_supressor,NA
+AR,Tumor_supressor,NA
+ASAP3,Tumor_supressor,NA
+ASB6,Tumor_supressor,NA
+ASCC3,Tumor_supressor,NA
+ASPG,Tumor_supressor,NA
+ASPH,Tumor_supressor,NA
+ASS1,Tumor_supressor,NA
+ATAD2B,Tumor_supressor,NA
+ATAD3A,Tumor_supressor,NA
+ATAD5,Tumor_supressor,NA
+ATG16L2,Tumor_supressor,NA
+ATG4A,Tumor_supressor,NA
+ATG7,Tumor_supressor,NA
+ATL2,Tumor_supressor,NA
+ATMIN,Tumor_supressor,NA
+ATP13A2,Tumor_supressor,NA
+ATP13A4,Tumor_supressor,NA
+ATP1A3,Tumor_supressor,NA
+ATP2C1,Tumor_supressor,NA
+ATP2C2,Tumor_supressor,NA
+ATP6V0A1,Tumor_supressor,NA
+ATP6V0D1,Tumor_supressor,NA
+ATP6V0E1,Tumor_supressor,NA
+ATP6V0E2,Tumor_supressor,NA
+ATP6V1E1,Tumor_supressor,NA
+ATP6V1E2,Tumor_supressor,NA
+ATP6V1F,Tumor_supressor,NA
+ATP8A1,Tumor_supressor,NA
+ATP8A2,Tumor_supressor,NA
+ATP8B4,Tumor_supressor,NA
+ATP9A,Tumor_supressor,NA
+ATRN,Tumor_supressor,NA
+ATXN2,Tumor_supressor,NA
+ATXN7L3,Tumor_supressor,NA
+AURKA,Tumor_supressor,NA
+AURKB,Tumor_supressor,NA
+AVEN,Tumor_supressor,NA
+AVL9,Tumor_supressor,NA
+AVPI1,Tumor_supressor,NA
+AXL,Tumor_supressor,NA
+B3GAT3,Tumor_supressor,NA
+B3GNT7,Tumor_supressor,NA
+B3GNT8,Tumor_supressor,NA
+BACE1,Tumor_supressor,NA
+BACE2,Tumor_supressor,NA
+BAG2,Tumor_supressor,NA
+BAIAP2L2,Tumor_supressor,NA
+BAK1,Tumor_supressor,NA
+BANF1,Tumor_supressor,NA
+BANK1,Tumor_supressor,NA
+BARD1,Tumor_supressor,NA
+BAZ1B,Tumor_supressor,NA
+BBS9,Tumor_supressor,NA
+BBX,Tumor_supressor,NA
+BCAS4,Tumor_supressor,NA
+BCCIP,Tumor_supressor,NA
+BCDIN3D,Tumor_supressor,NA
+BCL11B,Tumor_supressor,NA
+BCL2L12,Tumor_supressor,NA
+BCL2L13,Tumor_supressor,NA
+BCL2L2,Tumor_supressor,NA
+BCL3,Tumor_supressor,NA
+BCL6B,Tumor_supressor,NA
+BCL6,Tumor_supressor,NA
+BCL7A,Tumor_supressor,NA
+BCLAF1,Tumor_supressor,NA
+BCO2,Tumor_supressor,NA
+BDKRB1,Tumor_supressor,NA
+BDKRB2,Tumor_supressor,NA
+BECN1,Tumor_supressor,NA
+BEND6,Tumor_supressor,NA
+BEST1,Tumor_supressor,NA
+BEX1,Tumor_supressor,NA
+BEX4,Tumor_supressor,NA
+BHLHE41,Tumor_supressor,NA
+BICC1,Tumor_supressor,NA
+BIRC5,Tumor_supressor,NA
+BLK,Tumor_supressor,NA
+BLM,Tumor_supressor,NA
+BMF,Tumor_supressor,NA
+BMP1,Tumor_supressor,NA
+BMP2,Tumor_supressor,NA
+BMP3,Tumor_supressor,NA
+BMP8A,Tumor_supressor,NA
+BMP8B,Tumor_supressor,NA
+BMPR2,Tumor_supressor,NA
+BNC2,Tumor_supressor,NA
+BNIPL,Tumor_supressor,NA
+BOD1,Tumor_supressor,NA
+BOK,Tumor_supressor,NA
+BOLA1,Tumor_supressor,NA
+BOP1,Tumor_supressor,NA
+BPNT1,Tumor_supressor,NA
+BRAP,Tumor_supressor,NA
+BRCA1,Tumor_supressor,NA
+BRCA2,Tumor_supressor,NA
+BRD9,Tumor_supressor,NA
+BRIP1,Tumor_supressor,NA
+BRSK1,Tumor_supressor,NA
+BSDC1,Tumor_supressor,NA
+BST2,Tumor_supressor,NA
+BTBD11,Tumor_supressor,NA
+BTD,Tumor_supressor,NA
+BTF3L4,Tumor_supressor,NA
+BTF3,Tumor_supressor,NA
+BTLA,Tumor_supressor,NA
+BTN3A1,Tumor_supressor,NA
+BTNL9,Tumor_supressor,NA
+BUB1B,Tumor_supressor,NA
+BUB3,Tumor_supressor,NA
+BZW1,Tumor_supressor,NA
+C10orf95,Tumor_supressor,NA
+C11orf16,Tumor_supressor,NA
+C11orf21,Tumor_supressor,NA
+C11orf24,Tumor_supressor,NA
+C11orf45,Tumor_supressor,NA
+C11orf54,Tumor_supressor,NA
+C11orf58,Tumor_supressor,NA
+C11orf80,Tumor_supressor,NA
+C12orf29,Tumor_supressor,NA
+C12orf73,Tumor_supressor,NA
+C14orf119,Tumor_supressor,NA
+C15orf62,Tumor_supressor,NA
+C16orf70,Tumor_supressor,NA
+C16orf74,Tumor_supressor,NA
+C16orf86,Tumor_supressor,NA
+C16orf87,Tumor_supressor,NA
+C16orf89,Tumor_supressor,NA
+C17orf107,Tumor_supressor,NA
+C17orf80,Tumor_supressor,NA
+C18orf54,Tumor_supressor,NA
+C19orf53,Tumor_supressor,NA
+C19orf54,Tumor_supressor,NA
+C1GALT1C1,Tumor_supressor,NA
+C1QA,Tumor_supressor,NA
+C1S,Tumor_supressor,NA
+C1orf112,Tumor_supressor,NA
+C1orf115,Tumor_supressor,NA
+C1orf21,Tumor_supressor,NA
+C1orf52,Tumor_supressor,NA
+C1orf56,Tumor_supressor,NA
+C1orf87,Tumor_supressor,NA
+C20orf194,Tumor_supressor,NA
+C22orf23,Tumor_supressor,NA
+C2CD2,Tumor_supressor,NA
+C2orf15,Tumor_supressor,NA
+C2,Tumor_supressor,NA
+C3orf62,Tumor_supressor,NA
+C3orf70,Tumor_supressor,NA
+C4A,Tumor_supressor,NA
+C4BPA,Tumor_supressor,NA
+C4orf48,Tumor_supressor,NA
+C5orf34,Tumor_supressor,NA
+C5orf38,Tumor_supressor,NA
+C5orf51,Tumor_supressor,NA
+C5,Tumor_supressor,NA
+C6orf132,Tumor_supressor,NA
+C6orf136,Tumor_supressor,NA
+C6,Tumor_supressor,NA
+C7orf50,Tumor_supressor,NA
+C8B,Tumor_supressor,NA
+C8orf33,Tumor_supressor,NA
+C9orf135,Tumor_supressor,NA
+C9orf152,Tumor_supressor,NA
+C9orf16,Tumor_supressor,NA
+C9orf24,Tumor_supressor,NA
+C9orf40,Tumor_supressor,NA
+C9orf72,Tumor_supressor,NA
+CA2,Tumor_supressor,NA
+CA5B,Tumor_supressor,NA
+CA9,Tumor_supressor,NA
+CABLES1,Tumor_supressor,NA
+CABLES2,Tumor_supressor,NA
+CACHD1,Tumor_supressor,NA
+CACNA1E,Tumor_supressor,NA
+CACNB3,Tumor_supressor,NA
+CACNG4,Tumor_supressor,NA
+CACNG6,Tumor_supressor,NA
+CACYBP,Tumor_supressor,NA
+CADM1,Tumor_supressor,NA
+CADM4,Tumor_supressor,NA
+CAD,Tumor_supressor,NA
+CALCOCO1,Tumor_supressor,NA
+CALML4,Tumor_supressor,NA
+CALR,Tumor_supressor,NA
+CAMKK2,Tumor_supressor,NA
+CAMTA1,Tumor_supressor,NA
+CAND1,Tumor_supressor,NA
+CAPG,Tumor_supressor,NA
+CAPN12,Tumor_supressor,NA
+CAPN3,Tumor_supressor,NA
+CAPN5,Tumor_supressor,NA
+CAPN9,Tumor_supressor,NA
+CAPNS1,Tumor_supressor,NA
+CARD11,Tumor_supressor,NA
+CARD16,Tumor_supressor,NA
+CARM1,Tumor_supressor,NA
+CARS2,Tumor_supressor,NA
+CASC2,Tumor_supressor,NA
+CASP8AP2,Tumor_supressor,NA
+CBFB,Tumor_supressor,NA
+CBLC,Tumor_supressor,NA
+CBR3,Tumor_supressor,NA
+CBR4,Tumor_supressor,NA
+CBWD3,Tumor_supressor,NA
+CBX1,Tumor_supressor,NA
+CBX3,Tumor_supressor,NA
+CBY1,Tumor_supressor,NA
+CC2D1B,Tumor_supressor,NA
+CCAR1,Tumor_supressor,NA
+CCDC115,Tumor_supressor,NA
+CCDC117,Tumor_supressor,NA
+CCDC138,Tumor_supressor,NA
+CCDC141,Tumor_supressor,NA
+CCDC146,Tumor_supressor,NA
+CCDC14,Tumor_supressor,NA
+CCDC15,Tumor_supressor,NA
+CCDC28A,Tumor_supressor,NA
+CCDC28B,Tumor_supressor,NA
+CCDC33,Tumor_supressor,NA
+CCDC34,Tumor_supressor,NA
+CCDC39,Tumor_supressor,NA
+CCDC43,Tumor_supressor,NA
+CCDC47,Tumor_supressor,NA
+CCDC57,Tumor_supressor,NA
+CCDC69,Tumor_supressor,NA
+CCDC73,Tumor_supressor,NA
+CCDC81,Tumor_supressor,NA
+CCDC85B,Tumor_supressor,NA
+CCDC88C,Tumor_supressor,NA
+CCDC89,Tumor_supressor,NA
+CCDC92,Tumor_supressor,NA
+CCDC96,Tumor_supressor,NA
+CCL19,Tumor_supressor,NA
+CCL22,Tumor_supressor,NA
+CCL23,Tumor_supressor,NA
+CCL28,Tumor_supressor,NA
+CCL2,Tumor_supressor,NA
+CCL4,Tumor_supressor,NA
+CCND3,Tumor_supressor,NA
+CCNDBP1,Tumor_supressor,NA
+CCNE1,Tumor_supressor,NA
+CCNF,Tumor_supressor,NA
+CCNG2,Tumor_supressor,NA
+CCNJL,Tumor_supressor,NA
+CCNT1,Tumor_supressor,NA
+CCNT2,Tumor_supressor,NA
+CCR5,Tumor_supressor,NA
+CCR7,Tumor_supressor,NA
+CCRL2,Tumor_supressor,NA
+CCT2,Tumor_supressor,NA
+CCT4,Tumor_supressor,NA
+CCT7,Tumor_supressor,NA
+CD14,Tumor_supressor,NA
+CD163L1,Tumor_supressor,NA
+CD207,Tumor_supressor,NA
+CD226,Tumor_supressor,NA
+CD22,Tumor_supressor,NA
+CD28,Tumor_supressor,NA
+CD2,Tumor_supressor,NA
+CD34,Tumor_supressor,NA
+CD36,Tumor_supressor,NA
+CD3D,Tumor_supressor,NA
+CD47,Tumor_supressor,NA
+CD52,Tumor_supressor,NA
+CD55,Tumor_supressor,NA
+CD5L,Tumor_supressor,NA
+CD63,Tumor_supressor,NA
+CD74,Tumor_supressor,NA
+CD79A,Tumor_supressor,NA
+CD81,Tumor_supressor,NA
+CD83,Tumor_supressor,NA
+CD9,Tumor_supressor,NA
+CDADC1,Tumor_supressor,NA
+CDAN1,Tumor_supressor,NA
+CDC123,Tumor_supressor,NA
+CDC14A,Tumor_supressor,NA
+CDC25A,Tumor_supressor,NA
+CDC25B,Tumor_supressor,NA
+CDC27,Tumor_supressor,NA
+CDC34,Tumor_supressor,NA
+CDC42BPA,Tumor_supressor,NA
+CDC42EP2,Tumor_supressor,NA
+CDC42SE1,Tumor_supressor,NA
+CDC5L,Tumor_supressor,NA
+CDC73,Tumor_supressor,NA
+CDCA2,Tumor_supressor,NA
+CDCA5,Tumor_supressor,NA
+CDCA8,Tumor_supressor,NA
+CDH15,Tumor_supressor,NA
+CDH1,Tumor_supressor,NA
+CDH24,Tumor_supressor,NA
+CDH3,Tumor_supressor,NA
+CDK11B,Tumor_supressor,NA
+CDK12,Tumor_supressor,NA
+CDK16,Tumor_supressor,NA
+CDK1,Tumor_supressor,NA
+CDK2AP1,Tumor_supressor,NA
+CDK2AP2,Tumor_supressor,NA
+CDK2,Tumor_supressor,NA
+CDK5R1,Tumor_supressor,NA
+CDK5R2,Tumor_supressor,NA
+CDK5RAP2,Tumor_supressor,NA
+CDK6,Tumor_supressor,NA
+CDK7,Tumor_supressor,NA
+CDKAL1,Tumor_supressor,NA
+CDKL1,Tumor_supressor,NA
+CDKL2,Tumor_supressor,NA
+CDKL5,Tumor_supressor,NA
+CDKN1A,Tumor_supressor,NA
+CDKN2A,Tumor_supressor,NA
+CDKN2B,Tumor_supressor,NA
+CDKN3,Tumor_supressor,NA
+CDO1,Tumor_supressor,NA
+CDS2,Tumor_supressor,NA
+CDT1,Tumor_supressor,NA
+CDV3,Tumor_supressor,NA
+CDX2,Tumor_supressor,NA
+CEACAM1,Tumor_supressor,NA
+CEACAM5,Tumor_supressor,NA
+CEACAM8,Tumor_supressor,NA
+CEBPA,Tumor_supressor,NA
+CEBPD,Tumor_supressor,NA
+CEBPG,Tumor_supressor,NA
+CELF2,Tumor_supressor,NA
+CELSR3,Tumor_supressor,NA
+CENPA,Tumor_supressor,NA
+CENPE,Tumor_supressor,NA
+CENPF,Tumor_supressor,NA
+CENPH,Tumor_supressor,NA
+CENPI,Tumor_supressor,NA
+CENPJ,Tumor_supressor,NA
+CENPO,Tumor_supressor,NA
+CENPT,Tumor_supressor,NA
+CENPW,Tumor_supressor,NA
+CEP250,Tumor_supressor,NA
+CEP55,Tumor_supressor,NA
+CEP76,Tumor_supressor,NA
+CEP78,Tumor_supressor,NA
+CEP97,Tumor_supressor,NA
+CEPT1,Tumor_supressor,NA
+CERCAM,Tumor_supressor,NA
+CETN2,Tumor_supressor,NA
+CFB,Tumor_supressor,NA
+CFD,Tumor_supressor,NA
+CFL2,Tumor_supressor,NA
+CGA,Tumor_supressor,NA
+CGNL1,Tumor_supressor,NA
+CHAC1,Tumor_supressor,NA
+CHADL,Tumor_supressor,NA
+CHAF1A,Tumor_supressor,NA
+CHCHD3,Tumor_supressor,NA
+CHCHD6,Tumor_supressor,NA
+CHGA,Tumor_supressor,NA
+CHMP1A,Tumor_supressor,NA
+CHMP2B,Tumor_supressor,NA
+CHODL,Tumor_supressor,NA
+CHRDL2,Tumor_supressor,NA
+CHRD,Tumor_supressor,NA
+CHRM1,Tumor_supressor,NA
+CHRM3,Tumor_supressor,NA
+CHRNB1,Tumor_supressor,NA
+CHST6,Tumor_supressor,NA
+CHTF18,Tumor_supressor,NA
+CHUK,Tumor_supressor,NA
+CHURC1,Tumor_supressor,NA
+CIDEB,Tumor_supressor,NA
+CIITA,Tumor_supressor,NA
+CINP,Tumor_supressor,NA
+CIRBP,Tumor_supressor,NA
+CISD1,Tumor_supressor,NA
+CITED2,Tumor_supressor,NA
+CKAP2,Tumor_supressor,NA
+CKAP4,Tumor_supressor,NA
+CKAP5,Tumor_supressor,NA
+CKMT1B,Tumor_supressor,NA
+CKS1B,Tumor_supressor,NA
+CLCC1,Tumor_supressor,NA
+CLCN2,Tumor_supressor,NA
+CLCN3,Tumor_supressor,NA
+CLCN4,Tumor_supressor,NA
+CLCN7,Tumor_supressor,NA
+CLDN18,Tumor_supressor,NA
+CLDN4,Tumor_supressor,NA
+CLDN7,Tumor_supressor,NA
+CLDN8,Tumor_supressor,NA
+CLDN9,Tumor_supressor,NA
+CLEC11A,Tumor_supressor,NA
+CLEC12A,Tumor_supressor,NA
+CLEC4A,Tumor_supressor,NA
+CLEC7A,Tumor_supressor,NA
+CLIC3,Tumor_supressor,NA
+CLIC4,Tumor_supressor,NA
+CLIP3,Tumor_supressor,NA
+CLK2,Tumor_supressor,NA
+CLN8,Tumor_supressor,NA
+CLPTM1L,Tumor_supressor,NA
+CLSTN1,Tumor_supressor,NA
+CLUL1,Tumor_supressor,NA
+CMAS,Tumor_supressor,NA
+CMBL,Tumor_supressor,NA
+CMKLR1,Tumor_supressor,NA
+CMTM1,Tumor_supressor,NA
+CMTM3,Tumor_supressor,NA
+CMTM7,Tumor_supressor,NA
+CNDP2,Tumor_supressor,NA
+CNN1,Tumor_supressor,NA
+CNN2,Tumor_supressor,NA
+CNN3,Tumor_supressor,NA
+CNOT7,Tumor_supressor,NA
+CNP,Tumor_supressor,NA
+CNR1,Tumor_supressor,NA
+CNTLN,Tumor_supressor,NA
+CNTN1,Tumor_supressor,NA
+CNTNAP2,Tumor_supressor,NA
+COASY,Tumor_supressor,NA
+COBL,Tumor_supressor,NA
+COCH,Tumor_supressor,NA
+COG7,Tumor_supressor,NA
+COIL,Tumor_supressor,NA
+COL12A1,Tumor_supressor,NA
+COL14A1,Tumor_supressor,NA
+COL16A1,Tumor_supressor,NA
+COL1A2,Tumor_supressor,NA
+COL22A1,Tumor_supressor,NA
+COL24A1,Tumor_supressor,NA
+COL3A1,Tumor_supressor,NA
+COL4A2,Tumor_supressor,NA
+COL5A1,Tumor_supressor,NA
+COL5A2,Tumor_supressor,NA
+COL6A3,Tumor_supressor,NA
+COL7A1,Tumor_supressor,NA
+COL9A2,Tumor_supressor,NA
+COMMD1,Tumor_supressor,NA
+COMMD2,Tumor_supressor,NA
+COMMD7,Tumor_supressor,NA
+COMTD1,Tumor_supressor,NA
+COMT,Tumor_supressor,NA
+COPB1,Tumor_supressor,NA
+COPS6,Tumor_supressor,NA
+COPS8,Tumor_supressor,NA
+COQ5,Tumor_supressor,NA
+COQ6,Tumor_supressor,NA
+CORO1A,Tumor_supressor,NA
+CORO6,Tumor_supressor,NA
+COX10,Tumor_supressor,NA
+COX15,Tumor_supressor,NA
+COX19,Tumor_supressor,NA
+COX4I1,Tumor_supressor,NA
+COX6A1,Tumor_supressor,NA
+COX8A,Tumor_supressor,NA
+CPA3,Tumor_supressor,NA
+CPB2,Tumor_supressor,NA
+CPEB2,Tumor_supressor,NA
+CPEB3,Tumor_supressor,NA
+CPEB4,Tumor_supressor,NA
+CPM,Tumor_supressor,NA
+CPNE5,Tumor_supressor,NA
+CPSF1,Tumor_supressor,NA
+CPSF6,Tumor_supressor,NA
+CPT1C,Tumor_supressor,NA
+CPXM1,Tumor_supressor,NA
+CRADD,Tumor_supressor,NA
+CRAT,Tumor_supressor,NA
+CRCP,Tumor_supressor,NA
+CREBL2,Tumor_supressor,NA
+CREBZF,Tumor_supressor,NA
+CRIP1,Tumor_supressor,NA
+CRLS1,Tumor_supressor,NA
+CRP,Tumor_supressor,NA
+CRTC3,Tumor_supressor,NA
+CRY1,Tumor_supressor,NA
+CRYL1,Tumor_supressor,NA
+CSAD,Tumor_supressor,NA
+CSE1L,Tumor_supressor,NA
+CSF2,Tumor_supressor,NA
+CSF3R,Tumor_supressor,NA
+CSGALNACT2,Tumor_supressor,NA
+CSK,Tumor_supressor,NA
+CSMD1,Tumor_supressor,NA
+CSNK1G3,Tumor_supressor,NA
+CSNK2A1,Tumor_supressor,NA
+CSNK2B,Tumor_supressor,NA
+CSRNP1,Tumor_supressor,NA
+CST3,Tumor_supressor,NA
+CSTA,Tumor_supressor,NA
+CSTF1,Tumor_supressor,NA
+CSTF2,Tumor_supressor,NA
+CTBP2,Tumor_supressor,NA
+CTCF,Tumor_supressor,NA
+CTDSP1,Tumor_supressor,NA
+CTDSPL2,Tumor_supressor,NA
+CTF1,Tumor_supressor,NA
+CTHRC1,Tumor_supressor,NA
+CTNNAL1,Tumor_supressor,NA
+CTNNBIP1,Tumor_supressor,NA
+CTNS,Tumor_supressor,NA
+CTSE,Tumor_supressor,NA
+CTSH,Tumor_supressor,NA
+CTTN,Tumor_supressor,NA
+CTU2,Tumor_supressor,NA
+CUL2,Tumor_supressor,NA
+CUL4A,Tumor_supressor,NA
+CUL4B,Tumor_supressor,NA
+CUL7,Tumor_supressor,NA
+CUL9,Tumor_supressor,NA
+CUTA,Tumor_supressor,NA
+CWC22,Tumor_supressor,NA
+CXCL13,Tumor_supressor,NA
+CXCL17,Tumor_supressor,NA
+CXCL6,Tumor_supressor,NA
+CXXC1,Tumor_supressor,NA
+CXXC5,Tumor_supressor,NA
+CYB561D1,Tumor_supressor,NA
+CYB5D2,Tumor_supressor,NA
+CYBA,Tumor_supressor,NA
+CYC1,Tumor_supressor,NA
+CYP20A1,Tumor_supressor,NA
+CYP27A1,Tumor_supressor,NA
+CYP2F1,Tumor_supressor,NA
+CYP39A1,Tumor_supressor,NA
+CYP3A5,Tumor_supressor,NA
+CYP4V2,Tumor_supressor,NA
+CYP51A1,Tumor_supressor,NA
+CYSLTR2,Tumor_supressor,NA
+CYTH1,Tumor_supressor,NA
+CYTH4,Tumor_supressor,NA
+CYTIP,Tumor_supressor,NA
+DAD1,Tumor_supressor,NA
+DALRD3,Tumor_supressor,NA
+DAPK1,Tumor_supressor,NA
+DAPK3,Tumor_supressor,NA
+DAZAP2,Tumor_supressor,NA
+DBF4B,Tumor_supressor,NA
+DBI,Tumor_supressor,NA
+DBN1,Tumor_supressor,NA
+DBNDD1,Tumor_supressor,NA
+DBNDD2,Tumor_supressor,NA
+DCAKD,Tumor_supressor,NA
+DCC,Tumor_supressor,NA
+DCDC2B,Tumor_supressor,NA
+DCN,Tumor_supressor,NA
+DCP1A,Tumor_supressor,NA
+DCTN3,Tumor_supressor,NA
+DCTPP1,Tumor_supressor,NA
+DCUN1D3,Tumor_supressor,NA
+DCUN1D5,Tumor_supressor,NA
+DDAH2,Tumor_supressor,NA
+DDC,Tumor_supressor,NA
+DDR2,Tumor_supressor,NA
+DDX10,Tumor_supressor,NA
+DDX11,Tumor_supressor,NA
+DDX18,Tumor_supressor,NA
+DDX20,Tumor_supressor,NA
+DDX24,Tumor_supressor,NA
+DDX41,Tumor_supressor,NA
+DDX42,Tumor_supressor,NA
+DDX46,Tumor_supressor,NA
+DDX47,Tumor_supressor,NA
+DDX49,Tumor_supressor,NA
+DDX52,Tumor_supressor,NA
+DDX54,Tumor_supressor,NA
+DDX58,Tumor_supressor,NA
+DDX5,Tumor_supressor,NA
+DDX60L,Tumor_supressor,NA
+DDX6,Tumor_supressor,NA
+DEK,Tumor_supressor,NA
+DENR,Tumor_supressor,NA
+DEPDC1B,Tumor_supressor,NA
+DEPDC1,Tumor_supressor,NA
+DEPDC5,Tumor_supressor,NA
+DERL2,Tumor_supressor,NA
+DERL3,Tumor_supressor,NA
+DGAT1,Tumor_supressor,NA
+DGCR5,Tumor_supressor,NA
+DGKH,Tumor_supressor,NA
+DGKZ,Tumor_supressor,NA
+DHRS11,Tumor_supressor,NA
+DHRS12,Tumor_supressor,NA
+DHRS4,Tumor_supressor,NA
+DHRSX,Tumor_supressor,NA
+DHTKD1,Tumor_supressor,NA
+DHX15,Tumor_supressor,NA
+DHX36,Tumor_supressor,NA
+DHX37,Tumor_supressor,NA
+DHX57,Tumor_supressor,NA
+DHX8,Tumor_supressor,NA
+DIAPH2,Tumor_supressor,NA
+DIDO1,Tumor_supressor,NA
+DIO2,Tumor_supressor,NA
+DIRAS3,Tumor_supressor,NA
+DISP2,Tumor_supressor,NA
+DLEC1,Tumor_supressor,NA
+DLEU1,Tumor_supressor,NA
+DLG3,Tumor_supressor,NA
+DLG4,Tumor_supressor,NA
+DLG5,Tumor_supressor,NA
+DLGAP5,Tumor_supressor,NA
+DLL3,Tumor_supressor,NA
+DLX4,Tumor_supressor,NA
+DMRTA2,Tumor_supressor,NA
+DMXL1,Tumor_supressor,NA
+DNA2,Tumor_supressor,NA
+DNAH1,Tumor_supressor,NA
+DNAH7,Tumor_supressor,NA
+DNAH9,Tumor_supressor,NA
+DNAI2,Tumor_supressor,NA
+DNAJB4,Tumor_supressor,NA
+DNAJC12,Tumor_supressor,NA
+DNAJC14,Tumor_supressor,NA
+DNAJC17,Tumor_supressor,NA
+DNAJC24,Tumor_supressor,NA
+DNAJC2,Tumor_supressor,NA
+DNAJC4,Tumor_supressor,NA
+DNAJC9,Tumor_supressor,NA
+DNALI1,Tumor_supressor,NA
+DNASE2B,Tumor_supressor,NA
+DNM1,Tumor_supressor,NA
+DNM3,Tumor_supressor,NA
+DNMT1,Tumor_supressor,NA
+DNMT3A,Tumor_supressor,NA
+DOCK1,Tumor_supressor,NA
+DOCK6,Tumor_supressor,NA
+DOK3,Tumor_supressor,NA
+DOK4,Tumor_supressor,NA
+DOK7,Tumor_supressor,NA
+DOLPP1,Tumor_supressor,NA
+DPEP2,Tumor_supressor,NA
+DPF1,Tumor_supressor,NA
+DPH2,Tumor_supressor,NA
+DPH3,Tumor_supressor,NA
+DPM2,Tumor_supressor,NA
+DPM3,Tumor_supressor,NA
+DPY19L1,Tumor_supressor,NA
+DRG2,Tumor_supressor,NA
+DSCAML1,Tumor_supressor,NA
+DSCC1,Tumor_supressor,NA
+DSN1,Tumor_supressor,NA
+DSTN,Tumor_supressor,NA
+DTL,Tumor_supressor,NA
+DTNBP1,Tumor_supressor,NA
+DTNB,Tumor_supressor,NA
+DUSP12,Tumor_supressor,NA
+DUSP13,Tumor_supressor,NA
+DUSP14,Tumor_supressor,NA
+DUSP16,Tumor_supressor,NA
+DUSP22,Tumor_supressor,NA
+DUSP2,Tumor_supressor,NA
+DUSP4,Tumor_supressor,NA
+DVL1,Tumor_supressor,NA
+DYNC1I2,Tumor_supressor,NA
+DYNC2H1,Tumor_supressor,NA
+DYNLL1,Tumor_supressor,NA
+DYRK2,Tumor_supressor,NA
+DZIP1L,Tumor_supressor,NA
+E2F4,Tumor_supressor,NA
+E2F8,Tumor_supressor,NA
+E4F1,Tumor_supressor,NA
+EARS2,Tumor_supressor,NA
+ECD,Tumor_supressor,NA
+ECHDC1,Tumor_supressor,NA
+ECHDC3,Tumor_supressor,NA
+ECT2L,Tumor_supressor,NA
+EDA2R,Tumor_supressor,NA
+EDARADD,Tumor_supressor,NA
+EDAR,Tumor_supressor,NA
+EDA,Tumor_supressor,NA
+EDEM3,Tumor_supressor,NA
+EDIL3,Tumor_supressor,NA
+EDN2,Tumor_supressor,NA
+EDNRB,Tumor_supressor,NA
+EEA1,Tumor_supressor,NA
+EEF1A1,Tumor_supressor,NA
+EEF1A2,Tumor_supressor,NA
+EEF1G,Tumor_supressor,NA
+EFCAB1,Tumor_supressor,NA
+EFCAB6,Tumor_supressor,NA
+EFCAB7,Tumor_supressor,NA
+EFNB2,Tumor_supressor,NA
+EGR2,Tumor_supressor,NA
+EGR3,Tumor_supressor,NA
+EHBP1L1,Tumor_supressor,NA
+EHD1,Tumor_supressor,NA
+EHD2,Tumor_supressor,NA
+EHD3,Tumor_supressor,NA
+EI24,Tumor_supressor,NA
+EIF2AK2,Tumor_supressor,NA
+EIF2AK4,Tumor_supressor,NA
+EIF2B1,Tumor_supressor,NA
+EIF3C,Tumor_supressor,NA
+EIF4A3,Tumor_supressor,NA
+EIF4B,Tumor_supressor,NA
+EIF4E3,Tumor_supressor,NA
+EIF4EBP2,Tumor_supressor,NA
+EIF4EBP3,Tumor_supressor,NA
+EIF4G1,Tumor_supressor,NA
+EIF4G3,Tumor_supressor,NA
+EIF6,Tumor_supressor,NA
+ELAVL1,Tumor_supressor,NA
+ELF2,Tumor_supressor,NA
+ELK1,Tumor_supressor,NA
+ELMOD3,Tumor_supressor,NA
+ELOVL4,Tumor_supressor,NA
+ELOVL6,Tumor_supressor,NA
+ELP4,Tumor_supressor,NA
+EMG1,Tumor_supressor,NA
+EML4,Tumor_supressor,NA
+EML5,Tumor_supressor,NA
+ENKUR,Tumor_supressor,NA
+ENO1,Tumor_supressor,NA
+ENOPH1,Tumor_supressor,NA
+ENOX1,Tumor_supressor,NA
+ENPP2,Tumor_supressor,NA
+ENPP4,Tumor_supressor,NA
+ENSA,Tumor_supressor,NA
+ENTPD4,Tumor_supressor,NA
+ENTPD6,Tumor_supressor,NA
+EOMES,Tumor_supressor,NA
+EP400,Tumor_supressor,NA
+EPAS1,Tumor_supressor,NA
+EPB41L3,Tumor_supressor,NA
+EPHB1,Tumor_supressor,NA
+EPHB3,Tumor_supressor,NA
+EPHB6,Tumor_supressor,NA
+EPHX2,Tumor_supressor,NA
+EPHX3,Tumor_supressor,NA
+EPHX4,Tumor_supressor,NA
+EPS15,Tumor_supressor,NA
+EPS8L3,Tumor_supressor,NA
+EPSTI1,Tumor_supressor,NA
+ERAL1,Tumor_supressor,NA
+ERAP2,Tumor_supressor,NA
+ERCC3,Tumor_supressor,NA
+ERCC4,Tumor_supressor,NA
+EREG,Tumor_supressor,NA
+ERI1,Tumor_supressor,NA
+ERLEC1,Tumor_supressor,NA
+ERMAP,Tumor_supressor,NA
+ESCO2,Tumor_supressor,NA
+ESD,Tumor_supressor,NA
+ESPL1,Tumor_supressor,NA
+ESPN,Tumor_supressor,NA
+ESYT2,Tumor_supressor,NA
+ESYT3,Tumor_supressor,NA
+ETF1,Tumor_supressor,NA
+ETHE1,Tumor_supressor,NA
+ETNK1,Tumor_supressor,NA
+ETNK2,Tumor_supressor,NA
+ETS1,Tumor_supressor,NA
+ETS2,Tumor_supressor,NA
+ETV3,Tumor_supressor,NA
+ETV7,Tumor_supressor,NA
+EVI2A,Tumor_supressor,NA
+EVI2B,Tumor_supressor,NA
+EVI5,Tumor_supressor,NA
+EVL,Tumor_supressor,NA
+EXO1,Tumor_supressor,NA
+EXOC3,Tumor_supressor,NA
+EXOC4,Tumor_supressor,NA
+EXOC6,Tumor_supressor,NA
+EXOC8,Tumor_supressor,NA
+EXOG,Tumor_supressor,NA
+EXOSC1,Tumor_supressor,NA
+EXOSC2,Tumor_supressor,NA
+EXOSC8,Tumor_supressor,NA
+EYA2,Tumor_supressor,NA
+EYA4,Tumor_supressor,NA
+EZH1,Tumor_supressor,NA
+F12,Tumor_supressor,NA
+FADD,Tumor_supressor,NA
+FAF2,Tumor_supressor,NA
+FAIM,Tumor_supressor,NA
+FAM107A,Tumor_supressor,NA
+FAM110B,Tumor_supressor,NA
+FAM118A,Tumor_supressor,NA
+FAM120C,Tumor_supressor,NA
+FAM133A,Tumor_supressor,NA
+FAM162A,Tumor_supressor,NA
+FAM162B,Tumor_supressor,NA
+FAM166B,Tumor_supressor,NA
+FAM168A,Tumor_supressor,NA
+FAM184A,Tumor_supressor,NA
+FAM189B,Tumor_supressor,NA
+FAM193B,Tumor_supressor,NA
+FAM199X,Tumor_supressor,NA
+FAM20A,Tumor_supressor,NA
+FAM24B,Tumor_supressor,NA
+FAM3D,Tumor_supressor,NA
+FAM43A,Tumor_supressor,NA
+FAM47E,Tumor_supressor,NA
+FAM50A,Tumor_supressor,NA
+FAM53A,Tumor_supressor,NA
+FAM53B,Tumor_supressor,NA
+FAM71E1,Tumor_supressor,NA
+FAM72A,Tumor_supressor,NA
+FAM72B,Tumor_supressor,NA
+FAM72D,Tumor_supressor,NA
+FAM76A,Tumor_supressor,NA
+FAM78A,Tumor_supressor,NA
+FAM81B,Tumor_supressor,NA
+FAM83B,Tumor_supressor,NA
+FAM83D,Tumor_supressor,NA
+FAM83F,Tumor_supressor,NA
+FAM83G,Tumor_supressor,NA
+FAM89A,Tumor_supressor,NA
+FAM98A,Tumor_supressor,NA
+FAM98C,Tumor_supressor,NA
+FANCA,Tumor_supressor,NA
+FANCG,Tumor_supressor,NA
+FAP,Tumor_supressor,NA
+FAR1,Tumor_supressor,NA
+FAR2,Tumor_supressor,NA
+FARP2,Tumor_supressor,NA
+FARSA,Tumor_supressor,NA
+FARSB,Tumor_supressor,NA
+FASTKD1,Tumor_supressor,NA
+FAS,Tumor_supressor,NA
+FAT1,Tumor_supressor,NA
+FBLN2,Tumor_supressor,NA
+FBLN5,Tumor_supressor,NA
+FBRSL1,Tumor_supressor,NA
+FBXL13,Tumor_supressor,NA
+FBXL16,Tumor_supressor,NA
+FBXL17,Tumor_supressor,NA
+FBXL19,Tumor_supressor,NA
+FBXL3,Tumor_supressor,NA
+FBXL5,Tumor_supressor,NA
+FBXL7,Tumor_supressor,NA
+FBXO15,Tumor_supressor,NA
+FBXO2,Tumor_supressor,NA
+FBXO41,Tumor_supressor,NA
+FBXO45,Tumor_supressor,NA
+FBXO46,Tumor_supressor,NA
+FBXO48,Tumor_supressor,NA
+FBXO5,Tumor_supressor,NA
+FCER1A,Tumor_supressor,NA
+FCER1G,Tumor_supressor,NA
+FCGBP,Tumor_supressor,NA
+FCGR1B,Tumor_supressor,NA
+FCGR2A,Tumor_supressor,NA
+FCGR3A,Tumor_supressor,NA
+FCGRT,Tumor_supressor,NA
+FCHO2,Tumor_supressor,NA
+FCRL2,Tumor_supressor,NA
+FCRL5,Tumor_supressor,NA
+FCRLA,Tumor_supressor,NA
+FCRLB,Tumor_supressor,NA
+FDXR,Tumor_supressor,NA
+FEM1A,Tumor_supressor,NA
+FEM1B,Tumor_supressor,NA
+FEN1,Tumor_supressor,NA
+FERMT1,Tumor_supressor,NA
+FER,Tumor_supressor,NA
+FGD1,Tumor_supressor,NA
+FGD2,Tumor_supressor,NA
+FGD4,Tumor_supressor,NA
+FGF11,Tumor_supressor,NA
+FGF14,Tumor_supressor,NA
+FGF1,Tumor_supressor,NA
+FGF9,Tumor_supressor,NA
+FGFBP2,Tumor_supressor,NA
+FGFR3,Tumor_supressor,NA
+FGR,Tumor_supressor,NA
+FHDC1,Tumor_supressor,NA
+FHIT,Tumor_supressor,NA
+FHOD3,Tumor_supressor,NA
+FIBP,Tumor_supressor,NA
+FIG4,Tumor_supressor,NA
+FIGNL1,Tumor_supressor,NA
+FILIP1L,Tumor_supressor,NA
+FKBP10,Tumor_supressor,NA
+FKBP14,Tumor_supressor,NA
+FKBP3,Tumor_supressor,NA
+FKBPL,Tumor_supressor,NA
+FLCN,Tumor_supressor,NA
+FLNA,Tumor_supressor,NA
+FLRT3,Tumor_supressor,NA
+FLVCR2,Tumor_supressor,NA
+FLYWCH2,Tumor_supressor,NA
+FMNL1,Tumor_supressor,NA
+FMO2,Tumor_supressor,NA
+FMO3,Tumor_supressor,NA
+FMO4,Tumor_supressor,NA
+FMO5,Tumor_supressor,NA
+FMOD,Tumor_supressor,NA
+FN3KRP,Tumor_supressor,NA
+FNBP1L,Tumor_supressor,NA
+FOLR1,Tumor_supressor,NA
+FOSL1,Tumor_supressor,NA
+FOXA2,Tumor_supressor,NA
+FOXA3,Tumor_supressor,NA
+FOXE1,Tumor_supressor,NA
+FOXJ2,Tumor_supressor,NA
+FOXJ3,Tumor_supressor,NA
+FOXK1,Tumor_supressor,NA
+FOXN2,Tumor_supressor,NA
+FOXO1,Tumor_supressor,NA
+FOXP3,Tumor_supressor,NA
+FOXRED2,Tumor_supressor,NA
+FPGT,Tumor_supressor,NA
+FPR3,Tumor_supressor,NA
+FRAT1,Tumor_supressor,NA
+FRAT2,Tumor_supressor,NA
+FREM1,Tumor_supressor,NA
+FRMD4B,Tumor_supressor,NA
+FRMD6,Tumor_supressor,NA
+FRMD8,Tumor_supressor,NA
+FRZB,Tumor_supressor,NA
+FSCN1,Tumor_supressor,NA
+FSCN2,Tumor_supressor,NA
+FTSJ1,Tumor_supressor,NA
+FUCA1,Tumor_supressor,NA
+FUT11,Tumor_supressor,NA
+FUT1,Tumor_supressor,NA
+FUT7,Tumor_supressor,NA
+FUZ,Tumor_supressor,NA
+FXN,Tumor_supressor,NA
+FXR1,Tumor_supressor,NA
+FXYD3,Tumor_supressor,NA
+FXYD4,Tumor_supressor,NA
+FXYD5,Tumor_supressor,NA
+FYCO1,Tumor_supressor,NA
+FZD3,Tumor_supressor,NA
+FZD5,Tumor_supressor,NA
+FZD8,Tumor_supressor,NA
+FZR1,Tumor_supressor,NA
+G0S2,Tumor_supressor,NA
+G3BP1,Tumor_supressor,NA
+G6PD,Tumor_supressor,NA
+GAB3,Tumor_supressor,NA
+GABARAPL1,Tumor_supressor,NA
+GABARAPL2,Tumor_supressor,NA
+GABPB1,Tumor_supressor,NA
+GADD45A,Tumor_supressor,NA
+GADD45GIP1,Tumor_supressor,NA
+GALK1,Tumor_supressor,NA
+GALK2,Tumor_supressor,NA
+GALNT1,Tumor_supressor,NA
+GALNT7,Tumor_supressor,NA
+GANAB,Tumor_supressor,NA
+GAN,Tumor_supressor,NA
+GAPT,Tumor_supressor,NA
+GAS7,Tumor_supressor,NA
+GATAD2A,Tumor_supressor,NA
+GATC,Tumor_supressor,NA
+GBA,Tumor_supressor,NA
+GBP1,Tumor_supressor,NA
+GBP4,Tumor_supressor,NA
+GCH1,Tumor_supressor,NA
+GCHFR,Tumor_supressor,NA
+GCNT3,Tumor_supressor,NA
+GCNT4,Tumor_supressor,NA
+GCOM1,Tumor_supressor,NA
+GDI1,Tumor_supressor,NA
+GEMIN4,Tumor_supressor,NA
+GEMIN5,Tumor_supressor,NA
+GEN1,Tumor_supressor,NA
+GFI1,Tumor_supressor,NA
+GFOD1,Tumor_supressor,NA
+GFPT1,Tumor_supressor,NA
+GGA2,Tumor_supressor,NA
+GGA3,Tumor_supressor,NA
+GGCX,Tumor_supressor,NA
+GGH,Tumor_supressor,NA
+GGT3P,Tumor_supressor,NA
+GGT6,Tumor_supressor,NA
+GGTLC2,Tumor_supressor,NA
+GIGYF1,Tumor_supressor,NA
+GINS3,Tumor_supressor,NA
+GINS4,Tumor_supressor,NA
+GIPR,Tumor_supressor,NA
+GLCCI1,Tumor_supressor,NA
+GLCE,Tumor_supressor,NA
+GLG1,Tumor_supressor,NA
+GLI1,Tumor_supressor,NA
+GLIPR1,Tumor_supressor,NA
+GLUL,Tumor_supressor,NA
+GLYR1,Tumor_supressor,NA
+GMFB,Tumor_supressor,NA
+GMFG,Tumor_supressor,NA
+GMPR,Tumor_supressor,NA
+GMPS,Tumor_supressor,NA
+GNA12,Tumor_supressor,NA
+GNA13,Tumor_supressor,NA
+GNAI1,Tumor_supressor,NA
+GNAS,Tumor_supressor,NA
+GNB1L,Tumor_supressor,NA
+GNG7,Tumor_supressor,NA
+GNL3L,Tumor_supressor,NA
+GNPDA1,Tumor_supressor,NA
+GNPNAT1,Tumor_supressor,NA
+GOLGA2,Tumor_supressor,NA
+GOLGA3,Tumor_supressor,NA
+GOLGA7B,Tumor_supressor,NA
+GOLGB1,Tumor_supressor,NA
+GOLPH3,Tumor_supressor,NA
+GON4L,Tumor_supressor,NA
+GORASP1,Tumor_supressor,NA
+GORASP2,Tumor_supressor,NA
+GOSR2,Tumor_supressor,NA
+GOT2,Tumor_supressor,NA
+GPA33,Tumor_supressor,NA
+GPC5,Tumor_supressor,NA
+GPC6,Tumor_supressor,NA
+GPD1L,Tumor_supressor,NA
+GPM6A,Tumor_supressor,NA
+GPM6B,Tumor_supressor,NA
+GPR132,Tumor_supressor,NA
+GPR137B,Tumor_supressor,NA
+GPR137C,Tumor_supressor,NA
+GPR137,Tumor_supressor,NA
+GPR146,Tumor_supressor,NA
+GPR160,Tumor_supressor,NA
+GPR161,Tumor_supressor,NA
+GPR176,Tumor_supressor,NA
+GPR37,Tumor_supressor,NA
+GPRC5A,Tumor_supressor,NA
+GPRIN3,Tumor_supressor,NA
+GPS1,Tumor_supressor,NA
+GPS2,Tumor_supressor,NA
+GPT2,Tumor_supressor,NA
+GRAMD1C,Tumor_supressor,NA
+GRB10,Tumor_supressor,NA
+GRB7,Tumor_supressor,NA
+GREB1L,Tumor_supressor,NA
+GREB1,Tumor_supressor,NA
+GREM1,Tumor_supressor,NA
+GRIK2,Tumor_supressor,NA
+GRIN3A,Tumor_supressor,NA
+GRIPAP1,Tumor_supressor,NA
+GRP,Tumor_supressor,NA
+GRWD1,Tumor_supressor,NA
+GSN,Tumor_supressor,NA
+GSTCD,Tumor_supressor,NA
+GSTK1,Tumor_supressor,NA
+GSTM3,Tumor_supressor,NA
+GSTP1,Tumor_supressor,NA
+GTF2A1,Tumor_supressor,NA
+GTF2H1,Tumor_supressor,NA
+GTF2H3,Tumor_supressor,NA
+GTF2H4,Tumor_supressor,NA
+GTF2H5,Tumor_supressor,NA
+GTF2IP1,Tumor_supressor,NA
+GTF2IRD2,Tumor_supressor,NA
+GTF2I,Tumor_supressor,NA
+GTF3A,Tumor_supressor,NA
+GTF3C1,Tumor_supressor,NA
+GTPBP8,Tumor_supressor,NA
+GTSE1,Tumor_supressor,NA
+GZF1,Tumor_supressor,NA
+GZMB,Tumor_supressor,NA
+GZMK,Tumor_supressor,NA
+H6PD,Tumor_supressor,NA
+HAAO,Tumor_supressor,NA
+HABP2,Tumor_supressor,NA
+HACL1,Tumor_supressor,NA
+HAPLN3,Tumor_supressor,NA
+HAUS4,Tumor_supressor,NA
+HAVCR1,Tumor_supressor,NA
+HBB,Tumor_supressor,NA
+HCFC1,Tumor_supressor,NA
+HCK,Tumor_supressor,NA
+HDAC11,Tumor_supressor,NA
+HDAC2,Tumor_supressor,NA
+HDAC3,Tumor_supressor,NA
+HDAC4,Tumor_supressor,NA
+HDAC6,Tumor_supressor,NA
+HDGF,Tumor_supressor,NA
+HDHD2,Tumor_supressor,NA
+HDLBP,Tumor_supressor,NA
+HEATR1,Tumor_supressor,NA
+HEATR5A,Tumor_supressor,NA
+HEATR5B,Tumor_supressor,NA
+HEATR6,Tumor_supressor,NA
+HEBP1,Tumor_supressor,NA
+HECTD3,Tumor_supressor,NA
+HECW2,Tumor_supressor,NA
+HELLS,Tumor_supressor,NA
+HERC3,Tumor_supressor,NA
+HES1,Tumor_supressor,NA
+HES4,Tumor_supressor,NA
+HEY2,Tumor_supressor,NA
+HFE,Tumor_supressor,NA
+HGD,Tumor_supressor,NA
+HHLA2,Tumor_supressor,NA
+HIC1,Tumor_supressor,NA
+HIF3A,Tumor_supressor,NA
+HINT3,Tumor_supressor,NA
+HIP1R,Tumor_supressor,NA
+HIPK1,Tumor_supressor,NA
+HIRA,Tumor_supressor,NA
+HIVEP3,Tumor_supressor,NA
+HKDC1,Tumor_supressor,NA
+HLA-A,Tumor_supressor,NA
+HLA-DOA,Tumor_supressor,NA
+HLA-DQB2,Tumor_supressor,NA
+HLA-DRB5,Tumor_supressor,NA
+HLA-F,Tumor_supressor,NA
+HLF,Tumor_supressor,NA
+HMBOX1,Tumor_supressor,NA
+HMBS,Tumor_supressor,NA
+HMGCS1,Tumor_supressor,NA
+HMGXB3,Tumor_supressor,NA
+HMGXB4,Tumor_supressor,NA
+HMMR,Tumor_supressor,NA
+HMOX2,Tumor_supressor,NA
+HNRNPC,Tumor_supressor,NA
+HNRNPD,Tumor_supressor,NA
+HNRNPL,Tumor_supressor,NA
+HNRNPR,Tumor_supressor,NA
+HNRNPU,Tumor_supressor,NA
+HOMER3,Tumor_supressor,NA
+HOMEZ,Tumor_supressor,NA
+HOOK3,Tumor_supressor,NA
+HOPX,Tumor_supressor,NA
+HOXA1,Tumor_supressor,NA
+HOXA4,Tumor_supressor,NA
+HOXB13,Tumor_supressor,NA
+HOXB3,Tumor_supressor,NA
+HOXB7,Tumor_supressor,NA
+HOXB9,Tumor_supressor,NA
+HP1BP3,Tumor_supressor,NA
+HPDL,Tumor_supressor,NA
+HPGDS,Tumor_supressor,NA
+HPS1,Tumor_supressor,NA
+HPS4,Tumor_supressor,NA
+HPSE,Tumor_supressor,NA
+HRAS,Tumor_supressor,NA
+HRH2,Tumor_supressor,NA
+HR,Tumor_supressor,NA
+HS3ST3A1,Tumor_supressor,NA
+HSD11B1,Tumor_supressor,NA
+HSD17B11,Tumor_supressor,NA
+HSD17B13,Tumor_supressor,NA
+HSD17B4,Tumor_supressor,NA
+HSDL2,Tumor_supressor,NA
+HSF2BP,Tumor_supressor,NA
+HSP90AB1,Tumor_supressor,NA
+HSP90B1,Tumor_supressor,NA
+HSPA1A,Tumor_supressor,NA
+HSPA1B,Tumor_supressor,NA
+HSPA2,Tumor_supressor,NA
+HSPB11,Tumor_supressor,NA
+HSPB1,Tumor_supressor,NA
+HTR1D,Tumor_supressor,NA
+HTR7P1,Tumor_supressor,NA
+HTRA2,Tumor_supressor,NA
+HUS1,Tumor_supressor,NA
+HUWE1,Tumor_supressor,NA
+HYAL1,Tumor_supressor,NA
+HYOU1,Tumor_supressor,NA
+IAH1,Tumor_supressor,NA
+IBTK,Tumor_supressor,NA
+ICA1L,Tumor_supressor,NA
+ICAM1,Tumor_supressor,NA
+ICAM5,Tumor_supressor,NA
+ICMT,Tumor_supressor,NA
+IDE,Tumor_supressor,NA
+IDH3B,Tumor_supressor,NA
+IDH3G,Tumor_supressor,NA
+IDI1,Tumor_supressor,NA
+IDO1,Tumor_supressor,NA
+IDS,Tumor_supressor,NA
+IFI16,Tumor_supressor,NA
+IFI27L2,Tumor_supressor,NA
+IFIT1,Tumor_supressor,NA
+IFRD2,Tumor_supressor,NA
+IFT140,Tumor_supressor,NA
+IFT52,Tumor_supressor,NA
+IFT57,Tumor_supressor,NA
+IFT81,Tumor_supressor,NA
+IGDCC4,Tumor_supressor,NA
+IGF2R,Tumor_supressor,NA
+IGFALS,Tumor_supressor,NA
+IGFBP5,Tumor_supressor,NA
+IGSF21,Tumor_supressor,NA
+IKZF1,Tumor_supressor,NA
+IKZF5,Tumor_supressor,NA
+IL12RB2,Tumor_supressor,NA
+IL15,Tumor_supressor,NA
+IL18BP,Tumor_supressor,NA
+IL18RAP,Tumor_supressor,NA
+IL1R2,Tumor_supressor,NA
+IL20RA,Tumor_supressor,NA
+IL21R,Tumor_supressor,NA
+IL22RA1,Tumor_supressor,NA
+IL31RA,Tumor_supressor,NA
+IL34,Tumor_supressor,NA
+IL4R,Tumor_supressor,NA
+IL5RA,Tumor_supressor,NA
+IL6R,Tumor_supressor,NA
+IL6ST,Tumor_supressor,NA
+IL7R,Tumor_supressor,NA
+ILF3,Tumor_supressor,NA
+ILK,Tumor_supressor,NA
+IMMP2L,Tumor_supressor,NA
+INCENP,Tumor_supressor,NA
+INF2,Tumor_supressor,NA
+ING1,Tumor_supressor,NA
+ING3,Tumor_supressor,NA
+INHBB,Tumor_supressor,NA
+INPP1,Tumor_supressor,NA
+INPP5K,Tumor_supressor,NA
+INPPL1,Tumor_supressor,NA
+INSIG1,Tumor_supressor,NA
+INSL4,Tumor_supressor,NA
+INTS1,Tumor_supressor,NA
+INTS4,Tumor_supressor,NA
+IP6K2,Tumor_supressor,NA
+IPO13,Tumor_supressor,NA
+IPO4,Tumor_supressor,NA
+IPO5,Tumor_supressor,NA
+IPO7,Tumor_supressor,NA
+IQCA1,Tumor_supressor,NA
+IQCB1,Tumor_supressor,NA
+IQCE,Tumor_supressor,NA
+IQGAP2,Tumor_supressor,NA
+IQSEC3,Tumor_supressor,NA
+IRAK1BP1,Tumor_supressor,NA
+IRF3,Tumor_supressor,NA
+IRX1,Tumor_supressor,NA
+IRX2,Tumor_supressor,NA
+ISCU,Tumor_supressor,NA
+ISG20L2,Tumor_supressor,NA
+ITCH,Tumor_supressor,NA
+ITFG2,Tumor_supressor,NA
+ITGA11,Tumor_supressor,NA
+ITGA3,Tumor_supressor,NA
+ITGA5,Tumor_supressor,NA
+ITGAE,Tumor_supressor,NA
+ITGAL,Tumor_supressor,NA
+ITGAV,Tumor_supressor,NA
+ITGB1,Tumor_supressor,NA
+ITGB3,Tumor_supressor,NA
+ITGB4,Tumor_supressor,NA
+ITGB6,Tumor_supressor,NA
+ITGBL1,Tumor_supressor,NA
+ITK,Tumor_supressor,NA
+ITM2A,Tumor_supressor,NA
+ITM2B,Tumor_supressor,NA
+ITPK1,Tumor_supressor,NA
+ITPKC,Tumor_supressor,NA
+ITSN2,Tumor_supressor,NA
+IVNS1ABP,Tumor_supressor,NA
+JAK1,Tumor_supressor,NA
+JAKMIP1,Tumor_supressor,NA
+JOSD2,Tumor_supressor,NA
+JPH1,Tumor_supressor,NA
+JPH2,Tumor_supressor,NA
+JPH4,Tumor_supressor,NA
+JSRP1,Tumor_supressor,NA
+JUND,Tumor_supressor,NA
+JUP,Tumor_supressor,NA
+KATNAL1,Tumor_supressor,NA
+KBTBD12,Tumor_supressor,NA
+KBTBD4,Tumor_supressor,NA
+KBTBD6,Tumor_supressor,NA
+KBTBD8,Tumor_supressor,NA
+KCNAB1,Tumor_supressor,NA
+KCNAB2,Tumor_supressor,NA
+KCND1,Tumor_supressor,NA
+KCNE1,Tumor_supressor,NA
+KCNH3,Tumor_supressor,NA
+KCNIP3,Tumor_supressor,NA
+KCNJ10,Tumor_supressor,NA
+KCNJ16,Tumor_supressor,NA
+KCNJ5,Tumor_supressor,NA
+KCNK3,Tumor_supressor,NA
+KCNK5,Tumor_supressor,NA
+KCNMB1,Tumor_supressor,NA
+KCNMB3,Tumor_supressor,NA
+KCNQ1OT1,Tumor_supressor,NA
+KCNQ3,Tumor_supressor,NA
+KCNRG,Tumor_supressor,NA
+KCNS1,Tumor_supressor,NA
+KCTD11,Tumor_supressor,NA
+KCTD21,Tumor_supressor,NA
+KDELR1,Tumor_supressor,NA
+KDELR2,Tumor_supressor,NA
+KDM1B,Tumor_supressor,NA
+KDM2A,Tumor_supressor,NA
+KDM5A,Tumor_supressor,NA
+KDM5C,Tumor_supressor,NA
+KDM6A,Tumor_supressor,NA
+KHK,Tumor_supressor,NA
+KHSRP,Tumor_supressor,NA
+KIAA0232,Tumor_supressor,NA
+KIAA1109,Tumor_supressor,NA
+KIAA1549,Tumor_supressor,NA
+KIAA1586,Tumor_supressor,NA
+KIAA1671,Tumor_supressor,NA
+KIAA1755,Tumor_supressor,NA
+KIF11,Tumor_supressor,NA
+KIF13A,Tumor_supressor,NA
+KIF14,Tumor_supressor,NA
+KIF18B,Tumor_supressor,NA
+KIF20B,Tumor_supressor,NA
+KIF21A,Tumor_supressor,NA
+KIF21B,Tumor_supressor,NA
+KIF22,Tumor_supressor,NA
+KIF23,Tumor_supressor,NA
+KIF2A,Tumor_supressor,NA
+KIF3C,Tumor_supressor,NA
+KIF4A,Tumor_supressor,NA
+KIF7,Tumor_supressor,NA
+KIN,Tumor_supressor,NA
+KLB,Tumor_supressor,NA
+KLF10,Tumor_supressor,NA
+KLF11,Tumor_supressor,NA
+KLF15,Tumor_supressor,NA
+KLF4,Tumor_supressor,NA
+KLF7,Tumor_supressor,NA
+KLF8,Tumor_supressor,NA
+KLHDC1,Tumor_supressor,NA
+KLHL12,Tumor_supressor,NA
+KLHL25,Tumor_supressor,NA
+KLHL3,Tumor_supressor,NA
+KLHL5,Tumor_supressor,NA
+KLK10,Tumor_supressor,NA
+KLK7,Tumor_supressor,NA
+KLK8,Tumor_supressor,NA
+KLRF1,Tumor_supressor,NA
+KLRG2,Tumor_supressor,NA
+KMO,Tumor_supressor,NA
+KPNA3,Tumor_supressor,NA
+KPNB1,Tumor_supressor,NA
+KRBA1,Tumor_supressor,NA
+KRBA2,Tumor_supressor,NA
+KRIT1,Tumor_supressor,NA
+KRT19,Tumor_supressor,NA
+KRTCAP3,Tumor_supressor,NA
+L2HGDH,Tumor_supressor,NA
+L3MBTL3,Tumor_supressor,NA
+LAG3,Tumor_supressor,NA
+LAGE3,Tumor_supressor,NA
+LAIR1,Tumor_supressor,NA
+LAMP2,Tumor_supressor,NA
+LANCL2,Tumor_supressor,NA
+LAP3,Tumor_supressor,NA
+LAPTM4B,Tumor_supressor,NA
+LARP1B,Tumor_supressor,NA
+LARP1,Tumor_supressor,NA
+LATS2,Tumor_supressor,NA
+LDB1,Tumor_supressor,NA
+LDLRAD3,Tumor_supressor,NA
+LEF1,Tumor_supressor,NA
+LEMD2,Tumor_supressor,NA
+LEO1,Tumor_supressor,NA
+LETM2,Tumor_supressor,NA
+LFNG,Tumor_supressor,NA
+LGI2,Tumor_supressor,NA
+LGI3,Tumor_supressor,NA
+LGI4,Tumor_supressor,NA
+LGSN,Tumor_supressor,NA
+LHFPL3,Tumor_supressor,NA
+LIAS,Tumor_supressor,NA
+LIG1,Tumor_supressor,NA
+LIG3,Tumor_supressor,NA
+LILRA4,Tumor_supressor,NA
+LILRB3,Tumor_supressor,NA
+LIME1,Tumor_supressor,NA
+LIMK2,Tumor_supressor,NA
+LIN54,Tumor_supressor,NA
+LIN9,Tumor_supressor,NA
+LIPA,Tumor_supressor,NA
+LIPG,Tumor_supressor,NA
+LLPH,Tumor_supressor,NA
+LMAN1,Tumor_supressor,NA
+LMBR1L,Tumor_supressor,NA
+LMBRD1,Tumor_supressor,NA
+LMNB2,Tumor_supressor,NA
+LNX2,Tumor_supressor,NA
+LOXL2,Tumor_supressor,NA
+LPAR2,Tumor_supressor,NA
+LPAR6,Tumor_supressor,NA
+LPCAT3,Tumor_supressor,NA
+LPGAT1,Tumor_supressor,NA
+LPL,Tumor_supressor,NA
+LRFN4,Tumor_supressor,NA
+LRIG2,Tumor_supressor,NA
+LRP12,Tumor_supressor,NA
+LRP1,Tumor_supressor,NA
+LRP2BP,Tumor_supressor,NA
+LRP2,Tumor_supressor,NA
+LRP5L,Tumor_supressor,NA
+LRRC10B,Tumor_supressor,NA
+LRRC20,Tumor_supressor,NA
+LRRC23,Tumor_supressor,NA
+LRRC2,Tumor_supressor,NA
+LRRC37A,Tumor_supressor,NA
+LRRC37B,Tumor_supressor,NA
+LRRC40,Tumor_supressor,NA
+LRRC45,Tumor_supressor,NA
+LRRC49,Tumor_supressor,NA
+LRRC57,Tumor_supressor,NA
+LRRC8B,Tumor_supressor,NA
+LRRC8C,Tumor_supressor,NA
+LRRC8E,Tumor_supressor,NA
+LRRFIP2,Tumor_supressor,NA
+LRRIQ1,Tumor_supressor,NA
+LRRN1,Tumor_supressor,NA
+LRSAM1,Tumor_supressor,NA
+LSM14B,Tumor_supressor,NA
+LSM1,Tumor_supressor,NA
+LSM2,Tumor_supressor,NA
+LSM5,Tumor_supressor,NA
+LSM7,Tumor_supressor,NA
+LSP1,Tumor_supressor,NA
+LSS,Tumor_supressor,NA
+LTA4H,Tumor_supressor,NA
+LTB4R,Tumor_supressor,NA
+LTBP1,Tumor_supressor,NA
+LTBP2,Tumor_supressor,NA
+LUC7L3,Tumor_supressor,NA
+LUC7L,Tumor_supressor,NA
+LY86,Tumor_supressor,NA
+LYPD1,Tumor_supressor,NA
+LYPD3,Tumor_supressor,NA
+LYPD6B,Tumor_supressor,NA
+LYRM4,Tumor_supressor,NA
+LYSMD4,Tumor_supressor,NA
+LZTS1,Tumor_supressor,NA
+MACC1,Tumor_supressor,NA
+MACROD2,Tumor_supressor,NA
+MAD2L1,Tumor_supressor,NA
+MAD2L2,Tumor_supressor,NA
+MAFF,Tumor_supressor,NA
+MAFK,Tumor_supressor,NA
+MAGEC1,Tumor_supressor,NA
+MAGEC2,Tumor_supressor,NA
+MAGED2,Tumor_supressor,NA
+MAGEF1,Tumor_supressor,NA
+MAGI3,Tumor_supressor,NA
+MAGIX,Tumor_supressor,NA
+MAGOHB,Tumor_supressor,NA
+MAGT1,Tumor_supressor,NA
+MAG,Tumor_supressor,NA
+MAK,Tumor_supressor,NA
+MAML1,Tumor_supressor,NA
+MAN2A2,Tumor_supressor,NA
+MANBA,Tumor_supressor,NA
+MANEAL,Tumor_supressor,NA
+MANEA,Tumor_supressor,NA
+MAP2K3,Tumor_supressor,NA
+MAP2K5,Tumor_supressor,NA
+MAP2,Tumor_supressor,NA
+MAP3K11,Tumor_supressor,NA
+MAP3K4,Tumor_supressor,NA
+MAP3K9,Tumor_supressor,NA
+MAP4K2,Tumor_supressor,NA
+MAP4K5,Tumor_supressor,NA
+MAP6D1,Tumor_supressor,NA
+MAP6,Tumor_supressor,NA
+MAPK11,Tumor_supressor,NA
+MAPK12,Tumor_supressor,NA
+MAPK14,Tumor_supressor,NA
+MAPK8IP2,Tumor_supressor,NA
+MAPK8,Tumor_supressor,NA
+MAPKAPK3,Tumor_supressor,NA
+MAPRE1,Tumor_supressor,NA
+MAPRE3,Tumor_supressor,NA
+MARCKS,Tumor_supressor,NA
+MARK1,Tumor_supressor,NA
+MARK2,Tumor_supressor,NA
+MARVELD2,Tumor_supressor,NA
+MARVELD3,Tumor_supressor,NA
+MASP1,Tumor_supressor,NA
+MAST2,Tumor_supressor,NA
+MAST3,Tumor_supressor,NA
+MAT2B,Tumor_supressor,NA
+MATK,Tumor_supressor,NA
+MATN3,Tumor_supressor,NA
+MBD6,Tumor_supressor,NA
+MBTPS2,Tumor_supressor,NA
+MCCC1,Tumor_supressor,NA
+MCL1,Tumor_supressor,NA
+MCM2,Tumor_supressor,NA
+MCM5,Tumor_supressor,NA
+MCM6,Tumor_supressor,NA
+MCM8,Tumor_supressor,NA
+MCOLN2,Tumor_supressor,NA
+MCTP1,Tumor_supressor,NA
+MDH1,Tumor_supressor,NA
+MDK,Tumor_supressor,NA
+MDM1,Tumor_supressor,NA
+ME3,Tumor_supressor,NA
+MEA1,Tumor_supressor,NA
+MEAF6,Tumor_supressor,NA
+MECOM,Tumor_supressor,NA
+MECP2,Tumor_supressor,NA
+MED10,Tumor_supressor,NA
+MED11,Tumor_supressor,NA
+MED13,Tumor_supressor,NA
+MED14,Tumor_supressor,NA
+MED17,Tumor_supressor,NA
+MED1,Tumor_supressor,NA
+MED23,Tumor_supressor,NA
+MED28,Tumor_supressor,NA
+MED31,Tumor_supressor,NA
+MED8,Tumor_supressor,NA
+MED9,Tumor_supressor,NA
+MEG3,Tumor_supressor,NA
+MEGF9,Tumor_supressor,NA
+MEI1,Tumor_supressor,NA
+MEIS2,Tumor_supressor,NA
+MEIS3,Tumor_supressor,NA
+MEN1,Tumor_supressor,NA
+MEPCE,Tumor_supressor,NA
+MEST,Tumor_supressor,NA
+METAP1,Tumor_supressor,NA
+METTL1,Tumor_supressor,NA
+METTL4,Tumor_supressor,NA
+METTL5,Tumor_supressor,NA
+METTL7A,Tumor_supressor,NA
+METTL8,Tumor_supressor,NA
+METTL9,Tumor_supressor,NA
+MET,Tumor_supressor,NA
+MEX3D,Tumor_supressor,NA
+MFAP3L,Tumor_supressor,NA
+MFSD9,Tumor_supressor,NA
+MGAT3,Tumor_supressor,NA
+MGA,Tumor_supressor,NA
+MGLL,Tumor_supressor,NA
+MGRN1,Tumor_supressor,NA
+MIAT,Tumor_supressor,NA
+MINPP1,Tumor_supressor,NA
+MKI67,Tumor_supressor,NA
+MKNK2,Tumor_supressor,NA
+MKRN1,Tumor_supressor,NA
+MLEC,Tumor_supressor,NA
+MLH3,Tumor_supressor,NA
+MLKL,Tumor_supressor,NA
+MLLT11,Tumor_supressor,NA
+MLPH,Tumor_supressor,NA
+MLST8,Tumor_supressor,NA
+MMAA,Tumor_supressor,NA
+MMADHC,Tumor_supressor,NA
+MMP11,Tumor_supressor,NA
+MMP12,Tumor_supressor,NA
+MMP14,Tumor_supressor,NA
+MMP15,Tumor_supressor,NA
+MMP17,Tumor_supressor,NA
+MMP19,Tumor_supressor,NA
+MMP3,Tumor_supressor,NA
+MMP7,Tumor_supressor,NA
+MMP9,Tumor_supressor,NA
+MMRN1,Tumor_supressor,NA
+MMS19,Tumor_supressor,NA
+MN1,Tumor_supressor,NA
+MND1,Tumor_supressor,NA
+MNDA,Tumor_supressor,NA
+MNX1,Tumor_supressor,NA
+MOAP1,Tumor_supressor,NA
+MORC2,Tumor_supressor,NA
+MORC3,Tumor_supressor,NA
+MPG,Tumor_supressor,NA
+MPHOSPH8,Tumor_supressor,NA
+MPI,Tumor_supressor,NA
+MPV17L2,Tumor_supressor,NA
+MPV17,Tumor_supressor,NA
+MR1,Tumor_supressor,NA
+MRAP2,Tumor_supressor,NA
+MRFAP1L1,Tumor_supressor,NA
+MRPL10,Tumor_supressor,NA
+MRPL11,Tumor_supressor,NA
+MRPL19,Tumor_supressor,NA
+MRPL21,Tumor_supressor,NA
+MRPL22,Tumor_supressor,NA
+MRPL23,Tumor_supressor,NA
+MRPL30,Tumor_supressor,NA
+MRPL33,Tumor_supressor,NA
+MRPL35,Tumor_supressor,NA
+MRPL36,Tumor_supressor,NA
+MRPL41,Tumor_supressor,NA
+MRPL4,Tumor_supressor,NA
+MRPL52,Tumor_supressor,NA
+MRPS14,Tumor_supressor,NA
+MRPS15,Tumor_supressor,NA
+MRPS17,Tumor_supressor,NA
+MRPS18A,Tumor_supressor,NA
+MRPS26,Tumor_supressor,NA
+MRPS27,Tumor_supressor,NA
+MRPS28,Tumor_supressor,NA
+MRPS2,Tumor_supressor,NA
+MRPS7,Tumor_supressor,NA
+MS4A6A,Tumor_supressor,NA
+MS4A7,Tumor_supressor,NA
+MSH2,Tumor_supressor,NA
+MSH6,Tumor_supressor,NA
+MSL1,Tumor_supressor,NA
+MSMB,Tumor_supressor,NA
+MSN,Tumor_supressor,NA
+MSR1,Tumor_supressor,NA
+MSRA,Tumor_supressor,NA
+MSX1,Tumor_supressor,NA
+MT1X,Tumor_supressor,NA
+MTA2,Tumor_supressor,NA
+MTAP,Tumor_supressor,NA
+MTBP,Tumor_supressor,NA
+MTCP1,Tumor_supressor,NA
+MTDH,Tumor_supressor,NA
+MTHFD1L,Tumor_supressor,NA
+MTHFR,Tumor_supressor,NA
+MTMR14,Tumor_supressor,NA
+MTMR2,Tumor_supressor,NA
+MTMR4,Tumor_supressor,NA
+MTMR7,Tumor_supressor,NA
+MTOR,Tumor_supressor,NA
+MTRF1,Tumor_supressor,NA
+MUC13,Tumor_supressor,NA
+MUC15,Tumor_supressor,NA
+MUC20,Tumor_supressor,NA
+MUC4,Tumor_supressor,NA
+MUL1,Tumor_supressor,NA
+MXD3,Tumor_supressor,NA
+MXRA5,Tumor_supressor,NA
+MYBL1,Tumor_supressor,NA
+MYBL2,Tumor_supressor,NA
+MYBPHL,Tumor_supressor,NA
+MYEOV,Tumor_supressor,NA
+MYH11,Tumor_supressor,NA
+MYL12A,Tumor_supressor,NA
+MYL12B,Tumor_supressor,NA
+MYL6B,Tumor_supressor,NA
+MYLIP,Tumor_supressor,NA
+MYO1D,Tumor_supressor,NA
+MYO1E,Tumor_supressor,NA
+MYO9A,Tumor_supressor,NA
+MYOM1,Tumor_supressor,NA
+MYOZ1,Tumor_supressor,NA
+MYPOP,Tumor_supressor,NA
+N4BP1,Tumor_supressor,NA
+N4BP2L2,Tumor_supressor,NA
+N6AMT1,Tumor_supressor,NA
+"NAA25",Tumor_supressor,NA
+"NAALADL1",Tumor_supressor,NA
+"NACC1",Tumor_supressor,NA
+"NADSYN1",Tumor_supressor,NA
+"NAIP",Tumor_supressor,NA
+"NALCN",Tumor_supressor,NA
+"NAP1L1",Tumor_supressor,NA
+"NAPA",Tumor_supressor,NA
+"NAPSA",Tumor_supressor,NA
+"NAT14",Tumor_supressor,NA
+NBAS,Tumor_supressor,NA
+NBL1,Tumor_supressor,NA
+NBPF10,Tumor_supressor,NA
+NBPF1,Tumor_supressor,NA
+NBR1,Tumor_supressor,NA
+NCAPD2,Tumor_supressor,NA
+NCAPG2,Tumor_supressor,NA
+NCAPG,Tumor_supressor,NA
+NCBP1,Tumor_supressor,NA
+NCBP2,Tumor_supressor,NA
+NCF1,Tumor_supressor,NA
+NCK1,Tumor_supressor,NA
+NCK2,Tumor_supressor,NA
+NCKAP1L,Tumor_supressor,NA
+NCL,Tumor_supressor,NA
+NCOA7,Tumor_supressor,NA
+NCSTN,Tumor_supressor,NA
+NDC80,Tumor_supressor,NA
+NDEL1,Tumor_supressor,NA
+NDRG1,Tumor_supressor,NA
+NDUFA1,Tumor_supressor,NA
+NDUFB10,Tumor_supressor,NA
+NDUFB3,Tumor_supressor,NA
+NDUFB5,Tumor_supressor,NA
+NDUFB9,Tumor_supressor,NA
+NDUFS1,Tumor_supressor,NA
+NDUFS5,Tumor_supressor,NA
+NDUFS6,Tumor_supressor,NA
+NDUFS7,Tumor_supressor,NA
+NDUFS8,Tumor_supressor,NA
+NEAT1,Tumor_supressor,NA
+NECAP1,Tumor_supressor,NA
+NECAP2,Tumor_supressor,NA
+NEDD1,Tumor_supressor,NA
+NEDD4L,Tumor_supressor,NA
+NEK8,Tumor_supressor,NA
+NELL2,Tumor_supressor,NA
+NETO2,Tumor_supressor,NA
+NEU3,Tumor_supressor,NA
+NEURL1B,Tumor_supressor,NA
+NEXN,Tumor_supressor,NA
+NFAM1,Tumor_supressor,NA
+NFATC1,Tumor_supressor,NA
+NFE2L2,Tumor_supressor,NA
+NFKB1,Tumor_supressor,NA
+NFKB2,Tumor_supressor,NA
+NFKBID,Tumor_supressor,NA
+NFKBIL1,Tumor_supressor,NA
+NFRKB,Tumor_supressor,NA
+NFU1,Tumor_supressor,NA
+NFX1,Tumor_supressor,NA
+NFXL1,Tumor_supressor,NA
+NHEJ1,Tumor_supressor,NA
+NHP2,Tumor_supressor,NA
+NHSL2,Tumor_supressor,NA
+NHS,Tumor_supressor,NA
+NICN1,Tumor_supressor,NA
+NID1,Tumor_supressor,NA
+NINL,Tumor_supressor,NA
+NIPAL1,Tumor_supressor,NA
+NIPBL,Tumor_supressor,NA
+NIPSNAP1,Tumor_supressor,NA
+NIPSNAP3A,Tumor_supressor,NA
+NKAP,Tumor_supressor,NA
+NKD2,Tumor_supressor,NA
+NKIRAS2,Tumor_supressor,NA
+NKRF,Tumor_supressor,NA
+NKX2-1,Tumor_supressor,NA
+NKX3-1,Tumor_supressor,NA
+NLE1,Tumor_supressor,NA
+NME5,Tumor_supressor,NA
+NME6,Tumor_supressor,NA
+NME7,Tumor_supressor,NA
+NMRAL1,Tumor_supressor,NA
+NMT1,Tumor_supressor,NA
+NOC3L,Tumor_supressor,NA
+NOL10,Tumor_supressor,NA
+NOL11,Tumor_supressor,NA
+NOL3,Tumor_supressor,NA
+NOL9,Tumor_supressor,NA
+NOLC1,Tumor_supressor,NA
+NOMO2,Tumor_supressor,NA
+NOP56,Tumor_supressor,NA
+NOS2,Tumor_supressor,NA
+NOSTRIN,Tumor_supressor,NA
+NOTUM,Tumor_supressor,NA
+NOX4,Tumor_supressor,NA
+NPAS2,Tumor_supressor,NA
+NPC2,Tumor_supressor,NA
+NPRL3,Tumor_supressor,NA
+NPTX1,Tumor_supressor,NA
+NPTX2,Tumor_supressor,NA
+NPY1R,Tumor_supressor,NA
+NR0B2,Tumor_supressor,NA
+NR1D1,Tumor_supressor,NA
+NR1H2,Tumor_supressor,NA
+NR2C2AP,Tumor_supressor,NA
+NR2C2,Tumor_supressor,NA
+NR2F6,Tumor_supressor,NA
+NR4A1,Tumor_supressor,NA
+NR5A2,Tumor_supressor,NA
+NRBP1,Tumor_supressor,NA
+NRIP1,Tumor_supressor,NA
+NRM,Tumor_supressor,NA
+NRSN2,Tumor_supressor,NA
+NSF,Tumor_supressor,NA
+NSMCE1,Tumor_supressor,NA
+NSMCE2,Tumor_supressor,NA
+NSUN3,Tumor_supressor,NA
+NSUN4,Tumor_supressor,NA
+NSUN5P1,Tumor_supressor,NA
+NSUN7,Tumor_supressor,NA
+NT5DC1,Tumor_supressor,NA
+NTF4,Tumor_supressor,NA
+NTNG1,Tumor_supressor,NA
+NTRK2,Tumor_supressor,NA
+NTS,Tumor_supressor,NA
+NUAK2,Tumor_supressor,NA
+NUCKS1,Tumor_supressor,NA
+NUDCD3,Tumor_supressor,NA
+NUDT15,Tumor_supressor,NA
+NUDT17,Tumor_supressor,NA
+NUDT1,Tumor_supressor,NA
+NUDT3,Tumor_supressor,NA
+NUDT6,Tumor_supressor,NA
+NUDT7,Tumor_supressor,NA
+NUFIP1,Tumor_supressor,NA
+NUMBL,Tumor_supressor,NA
+NUP107,Tumor_supressor,NA
+NUP153,Tumor_supressor,NA
+NUP155,Tumor_supressor,NA
+NUP35,Tumor_supressor,NA
+NUP37,Tumor_supressor,NA
+NUP50,Tumor_supressor,NA
+NUP54,Tumor_supressor,NA
+NUP62,Tumor_supressor,NA
+NUP85,Tumor_supressor,NA
+NUP93,Tumor_supressor,NA
+NUPR1,Tumor_supressor,NA
+NUTF2,Tumor_supressor,NA
+NVL,Tumor_supressor,NA
+NWD1,Tumor_supressor,NA
+NXF1,Tumor_supressor,NA
+NXPH4,Tumor_supressor,NA
+NXT1,Tumor_supressor,NA
+OAF,Tumor_supressor,NA
+OASL,Tumor_supressor,NA
+OAT,Tumor_supressor,NA
+OAZ2,Tumor_supressor,NA
+OAZ3,Tumor_supressor,NA
+OBSL1,Tumor_supressor,NA
+OCEL1,Tumor_supressor,NA
+OCIAD1,Tumor_supressor,NA
+OCIAD2,Tumor_supressor,NA
+ODAM,Tumor_supressor,NA
+ODF3B,Tumor_supressor,NA
+OGDH,Tumor_supressor,NA
+OGFRL1,Tumor_supressor,NA
+OGN,Tumor_supressor,NA
+OLFM1,Tumor_supressor,NA
+OLFML2B,Tumor_supressor,NA
+ORMDL1,Tumor_supressor,NA
+OSBP2,Tumor_supressor,NA
+OSBPL1A,Tumor_supressor,NA
+OSBPL2,Tumor_supressor,NA
+OSBPL6,Tumor_supressor,NA
+OSBPL7,Tumor_supressor,NA
+OSM,Tumor_supressor,NA
+OSR2,Tumor_supressor,NA
+OTUD1,Tumor_supressor,NA
+OTUD5,Tumor_supressor,NA
+OXCT1,Tumor_supressor,NA
+P2RX7,Tumor_supressor,NA
+P2RY10,Tumor_supressor,NA
+P2RY8,Tumor_supressor,NA
+P4HA3,Tumor_supressor,NA
+P4HB,Tumor_supressor,NA
+P4HTM,Tumor_supressor,NA
+PA2G4,Tumor_supressor,NA
+PAAF1,Tumor_supressor,NA
+PABPC1L,Tumor_supressor,NA
+PABPC4,Tumor_supressor,NA
+PABPN1,Tumor_supressor,NA
+PACSIN1,Tumor_supressor,NA
+PACSIN2,Tumor_supressor,NA
+PAFAH1B1,Tumor_supressor,NA
+PAFAH1B2,Tumor_supressor,NA
+PAFAH1B3,Tumor_supressor,NA
+PAICS,Tumor_supressor,NA
+PAK1IP1,Tumor_supressor,NA
+PAK2,Tumor_supressor,NA
+PALM3,Tumor_supressor,NA
+PAN2,Tumor_supressor,NA
+PANX1,Tumor_supressor,NA
+PAPLN,Tumor_supressor,NA
+PAQR3,Tumor_supressor,NA
+PAQR4,Tumor_supressor,NA
+PAQR8,Tumor_supressor,NA
+PARD3B,Tumor_supressor,NA
+PARD6B,Tumor_supressor,NA
+PARL,Tumor_supressor,NA
+PARM1,Tumor_supressor,NA
+PARP11,Tumor_supressor,NA
+PARP15,Tumor_supressor,NA
+PARP2,Tumor_supressor,NA
+PASK,Tumor_supressor,NA
+PAX7,Tumor_supressor,NA
+PBX1,Tumor_supressor,NA
+PCBP2,Tumor_supressor,NA
+PCBP3,Tumor_supressor,NA
+PCBP4,Tumor_supressor,NA
+PCDH7,Tumor_supressor,NA
+PCDHA12,Tumor_supressor,NA
+PCDHB11,Tumor_supressor,NA
+PCDHB13,Tumor_supressor,NA
+PCDHB2,Tumor_supressor,NA
+PCDHGA3,Tumor_supressor,NA
+PCDHGB6,Tumor_supressor,NA
+PCGF2,Tumor_supressor,NA
+PCGF6,Tumor_supressor,NA
+PCP4,Tumor_supressor,NA
+PCSK9,Tumor_supressor,NA
+PCYOX1,Tumor_supressor,NA
+PDAP1,Tumor_supressor,NA
+PDCD10,Tumor_supressor,NA
+PDCD11,Tumor_supressor,NA
+PDCD1LG2,Tumor_supressor,NA
+PDCD2,Tumor_supressor,NA
+PDCD5,Tumor_supressor,NA
+PDCD6IP,Tumor_supressor,NA
+PDCL3,Tumor_supressor,NA
+PDE2A,Tumor_supressor,NA
+PDE4B,Tumor_supressor,NA
+PDE4D,Tumor_supressor,NA
+PDE6D,Tumor_supressor,NA
+PDE9A,Tumor_supressor,NA
+PDF,Tumor_supressor,NA
+PDGFB,Tumor_supressor,NA
+PDGFRB,Tumor_supressor,NA
+PDGFRL,Tumor_supressor,NA
+PDHA1,Tumor_supressor,NA
+PDHB,Tumor_supressor,NA
+PDHX,Tumor_supressor,NA
+PDIA6,Tumor_supressor,NA
+PDK2,Tumor_supressor,NA
+PDLIM2,Tumor_supressor,NA
+PDLIM5,Tumor_supressor,NA
+PDLIM7,Tumor_supressor,NA
+PDP1,Tumor_supressor,NA
+PDSS1,Tumor_supressor,NA
+PDXK,Tumor_supressor,NA
+PDZD8,Tumor_supressor,NA
+PDZK1IP1,Tumor_supressor,NA
+PEBP4,Tumor_supressor,NA
+PEF1,Tumor_supressor,NA
+PELP1,Tumor_supressor,NA
+PER1,Tumor_supressor,NA
+PER3,Tumor_supressor,NA
+PES1,Tumor_supressor,NA
+PEX11A,Tumor_supressor,NA
+PEX11B,Tumor_supressor,NA
+PEX11G,Tumor_supressor,NA
+PEX13,Tumor_supressor,NA
+PEX16,Tumor_supressor,NA
+PEX1,Tumor_supressor,NA
+PEX5,Tumor_supressor,NA
+PFDN2,Tumor_supressor,NA
+PFKFB2,Tumor_supressor,NA
+PFN2,Tumor_supressor,NA
+PGBD4,Tumor_supressor,NA
+PGBD5,Tumor_supressor,NA
+PGM2L1,Tumor_supressor,NA
+PGM5,Tumor_supressor,NA
+PGP,Tumor_supressor,NA
+PGRMC1,Tumor_supressor,NA
+PHACTR1,Tumor_supressor,NA
+PHACTR3,Tumor_supressor,NA
+PHB2,Tumor_supressor,NA
+PHB,Tumor_supressor,NA
+PHC2,Tumor_supressor,NA
+PHC3,Tumor_supressor,NA
+PHF19,Tumor_supressor,NA
+PHF5A,Tumor_supressor,NA
+PHLDA1,Tumor_supressor,NA
+PHLDB3,Tumor_supressor,NA
+PHOSPHO2,Tumor_supressor,NA
+PI15,Tumor_supressor,NA
+PI16,Tumor_supressor,NA
+PI4K2A,Tumor_supressor,NA
+PIAS1,Tumor_supressor,NA
+PIF1,Tumor_supressor,NA
+PIGB,Tumor_supressor,NA
+PIGH,Tumor_supressor,NA
+PIGQ,Tumor_supressor,NA
+PIGW,Tumor_supressor,NA
+PIK3C2B,Tumor_supressor,NA
+PIK3C3,Tumor_supressor,NA
+PIK3CB,Tumor_supressor,NA
+PIK3R3,Tumor_supressor,NA
+PIM1,Tumor_supressor,NA
+PINK1,Tumor_supressor,NA
+PIR,Tumor_supressor,NA
+PITPNA,Tumor_supressor,NA
+PITPNC1,Tumor_supressor,NA
+PITRM1,Tumor_supressor,NA
+PJA1,Tumor_supressor,NA
+PKD1,Tumor_supressor,NA
+PKHD1L1,Tumor_supressor,NA
+PKMYT1,Tumor_supressor,NA
+PKN1,Tumor_supressor,NA
+PKN3,Tumor_supressor,NA
+PKNOX1,Tumor_supressor,NA
+PLA1A,Tumor_supressor,NA
+PLA2G12A,Tumor_supressor,NA
+PLA2G12B,Tumor_supressor,NA
+PLA2G1B,Tumor_supressor,NA
+PLA2G3,Tumor_supressor,NA
+PLA2G4F,Tumor_supressor,NA
+PLA2R1,Tumor_supressor,NA
+PLAA,Tumor_supressor,NA
+PLAGL1,Tumor_supressor,NA
+PLAT,Tumor_supressor,NA
+PLCXD2,Tumor_supressor,NA
+PLEK2,Tumor_supressor,NA
+PLEKHA3,Tumor_supressor,NA
+PLEKHB1,Tumor_supressor,NA
+PLEKHG2,Tumor_supressor,NA
+PLEKHG3,Tumor_supressor,NA
+PLEKHG5,Tumor_supressor,NA
+PLEKHG6,Tumor_supressor,NA
+PLEKHM3,Tumor_supressor,NA
+PLEKHO2,Tumor_supressor,NA
+PLIN4,Tumor_supressor,NA
+PLIN5,Tumor_supressor,NA
+PLK3,Tumor_supressor,NA
+PLK4,Tumor_supressor,NA
+PLLP,Tumor_supressor,NA
+PLOD1,Tumor_supressor,NA
+PLOD3,Tumor_supressor,NA
+PLS1,Tumor_supressor,NA
+PLTP,Tumor_supressor,NA
+PLXNA1,Tumor_supressor,NA
+PLXND1,Tumor_supressor,NA
+PM20D2,Tumor_supressor,NA
+PMPCA,Tumor_supressor,NA
+PMS1,Tumor_supressor,NA
+PNKD,Tumor_supressor,NA
+PNOC,Tumor_supressor,NA
+PNPLA2,Tumor_supressor,NA
+PNPLA7,Tumor_supressor,NA
+PNRC1,Tumor_supressor,NA
+PNRC2,Tumor_supressor,NA
+POFUT1,Tumor_supressor,NA
+POLA2,Tumor_supressor,NA
+POLB,Tumor_supressor,NA
+POLD4,Tumor_supressor,NA
+POLE,Tumor_supressor,NA
+POLK,Tumor_supressor,NA
+POLR1A,Tumor_supressor,NA
+POLR1C,Tumor_supressor,NA
+POLR3C,Tumor_supressor,NA
+POLR3D,Tumor_supressor,NA
+POLR3E,Tumor_supressor,NA
+POLR3G,Tumor_supressor,NA
+POLR3H,Tumor_supressor,NA
+POLRMT,Tumor_supressor,NA
+POMT2,Tumor_supressor,NA
+POP1,Tumor_supressor,NA
+POPDC2,Tumor_supressor,NA
+POSTN,Tumor_supressor,NA
+POU2AF1,Tumor_supressor,NA
+POU2F2,Tumor_supressor,NA
+PPAN,Tumor_supressor,NA
+PPARGC1A,Tumor_supressor,NA
+PPAT,Tumor_supressor,NA
+PPCS,Tumor_supressor,NA
+PPFIA1,Tumor_supressor,NA
+PPFIA4,Tumor_supressor,NA
+PPFIBP2,Tumor_supressor,NA
+PPID,Tumor_supressor,NA
+PPIL6,Tumor_supressor,NA
+PPL,Tumor_supressor,NA
+PPM1A,Tumor_supressor,NA
+PPM1G,Tumor_supressor,NA
+PPM1L,Tumor_supressor,NA
+PPM1N,Tumor_supressor,NA
+PPP1R12C,Tumor_supressor,NA
+PPP1R14D,Tumor_supressor,NA
+PPP1R3D,Tumor_supressor,NA
+PPP1R3G,Tumor_supressor,NA
+PPP1R8,Tumor_supressor,NA
+PPP1R9B,Tumor_supressor,NA
+PPP2R2A,Tumor_supressor,NA
+PPP2R5D,Tumor_supressor,NA
+PPP3CB,Tumor_supressor,NA
+PPP3CC,Tumor_supressor,NA
+PPP4C,Tumor_supressor,NA
+PPP4R2,Tumor_supressor,NA
+PPP6C,Tumor_supressor,NA
+PRAME,Tumor_supressor,NA
+PRC1,Tumor_supressor,NA
+PRDM10,Tumor_supressor,NA
+PRDM15,Tumor_supressor,NA
+PRDM16,Tumor_supressor,NA
+PRDM1,Tumor_supressor,NA
+PRDM8,Tumor_supressor,NA
+PREPL,Tumor_supressor,NA
+PRF1,Tumor_supressor,NA
+PRIM1,Tumor_supressor,NA
+PRIM2,Tumor_supressor,NA
+PRIMA1,Tumor_supressor,NA
+PRKACA,Tumor_supressor,NA
+PRKAR1A,Tumor_supressor,NA
+PRKCE,Tumor_supressor,NA
+PRKCI,Tumor_supressor,NA
+PRKCQ,Tumor_supressor,NA
+PRKCSH,Tumor_supressor,NA
+PRKCZ,Tumor_supressor,NA
+PRKD1,Tumor_supressor,NA
+PRKDC,Tumor_supressor,NA
+PRKG2,Tumor_supressor,NA
+PRMT5,Tumor_supressor,NA
+PRMT7,Tumor_supressor,NA
+PRND,Tumor_supressor,NA
+PRODH,Tumor_supressor,NA
+PRPF18,Tumor_supressor,NA
+PRPF19,Tumor_supressor,NA
+PRPF39,Tumor_supressor,NA
+PRPF40A,Tumor_supressor,NA
+PRPF6,Tumor_supressor,NA
+PRPSAP1,Tumor_supressor,NA
+PRPSAP2,Tumor_supressor,NA
+PRR13,Tumor_supressor,NA
+PRR14,Tumor_supressor,NA
+PRR16,Tumor_supressor,NA
+PRR19,Tumor_supressor,NA
+PRR3,Tumor_supressor,NA
+PRSS12,Tumor_supressor,NA
+PRSS21,Tumor_supressor,NA
+PRSS53,Tumor_supressor,NA
+PRTFDC1,Tumor_supressor,NA
+PRX,Tumor_supressor,NA
+PSD3,Tumor_supressor,NA
+PSD4,Tumor_supressor,NA
+PSD,Tumor_supressor,NA
+PSKH1,Tumor_supressor,NA
+PSMA2,Tumor_supressor,NA
+PSMA4,Tumor_supressor,NA
+PSMA6,Tumor_supressor,NA
+PSMB3,Tumor_supressor,NA
+PSMB6,Tumor_supressor,NA
+PSMB7,Tumor_supressor,NA
+PSMB8,Tumor_supressor,NA
+PSMB9,Tumor_supressor,NA
+PSMC2,Tumor_supressor,NA
+PSMC3IP,Tumor_supressor,NA
+PSMC3,Tumor_supressor,NA
+PSMD10,Tumor_supressor,NA
+PSMD12,Tumor_supressor,NA
+PSMD13,Tumor_supressor,NA
+PSMD2,Tumor_supressor,NA
+PSMD9,Tumor_supressor,NA
+PSME1,Tumor_supressor,NA
+PSME2,Tumor_supressor,NA
+PSRC1,Tumor_supressor,NA
+PTCHD1,Tumor_supressor,NA
+PTGER1,Tumor_supressor,NA
+PTGER3,Tumor_supressor,NA
+PTGES3,Tumor_supressor,NA
+PTGIR,Tumor_supressor,NA
+PTGIS,Tumor_supressor,NA
+PTHLH,Tumor_supressor,NA
+PTP4A2,Tumor_supressor,NA
+PTPN1,Tumor_supressor,NA
+PTPN21,Tumor_supressor,NA
+PTPRG,Tumor_supressor,NA
+PTPRJ,Tumor_supressor,NA
+PTPRN2,Tumor_supressor,NA
+PTPRN,Tumor_supressor,NA
+PTPRR,Tumor_supressor,NA
+PTPRT,Tumor_supressor,NA
+PTTG1,Tumor_supressor,NA
+PTX3,Tumor_supressor,NA
+PUF60,Tumor_supressor,NA
+PUS10,Tumor_supressor,NA
+PUS3,Tumor_supressor,NA
+PVT1,Tumor_supressor,NA
+PWP1,Tumor_supressor,NA
+PXMP4,Tumor_supressor,NA
+PYCR1,Tumor_supressor,NA
+PYGB,Tumor_supressor,NA
+PZP,Tumor_supressor,NA
+QPCTL,Tumor_supressor,NA
+QPCT,Tumor_supressor,NA
+QRSL1,Tumor_supressor,NA
+QSOX2,Tumor_supressor,NA
+R3HDM1,Tumor_supressor,NA
+RAB11A,Tumor_supressor,NA
+RAB11FIP1,Tumor_supressor,NA
+RAB11FIP2,Tumor_supressor,NA
+RAB17,Tumor_supressor,NA
+RAB1A,Tumor_supressor,NA
+RAB20,Tumor_supressor,NA
+RAB26,Tumor_supressor,NA
+RAB30,Tumor_supressor,NA
+RAB31,Tumor_supressor,NA
+RAB32,Tumor_supressor,NA
+RAB36,Tumor_supressor,NA
+RAB40B,Tumor_supressor,NA
+RAB42,Tumor_supressor,NA
+RAB4A,Tumor_supressor,NA
+RAB5B,Tumor_supressor,NA
+RABEP1,Tumor_supressor,NA
+RABEP2,Tumor_supressor,NA
+RABGAP1L,Tumor_supressor,NA
+RABL2B,Tumor_supressor,NA
+RACGAP1,Tumor_supressor,NA
+RAD18,Tumor_supressor,NA
+RAD23B,Tumor_supressor,NA
+RAD54L,Tumor_supressor,NA
+RAD9A,Tumor_supressor,NA
+RALGPS2,Tumor_supressor,NA
+RANBP10,Tumor_supressor,NA
+RANBP1,Tumor_supressor,NA
+RANBP2,Tumor_supressor,NA
+RANGAP1,Tumor_supressor,NA
+RAPGEF3,Tumor_supressor,NA
+RARB,Tumor_supressor,NA
+RARRES1,Tumor_supressor,NA
+RASD1,Tumor_supressor,NA
+RASD2,Tumor_supressor,NA
+RASGEF1A,Tumor_supressor,NA
+RASGEF1B,Tumor_supressor,NA
+RASGRF2,Tumor_supressor,NA
+RASGRP2,Tumor_supressor,NA
+RASL10B,Tumor_supressor,NA
+RASL11A,Tumor_supressor,NA
+RASSF1,Tumor_supressor,NA
+RBBP7,Tumor_supressor,NA
+RBBP8,Tumor_supressor,NA
+RBL1,Tumor_supressor,NA
+RBL2,Tumor_supressor,NA
+RBM10,Tumor_supressor,NA
+RBM12,Tumor_supressor,NA
+RBM14,Tumor_supressor,NA
+RBM28,Tumor_supressor,NA
+RBM3,Tumor_supressor,NA
+RBM45,Tumor_supressor,NA
+RBM6,Tumor_supressor,NA
+RBM8A,Tumor_supressor,NA
+RBMX2,Tumor_supressor,NA
+RBPMS,Tumor_supressor,NA
+RCAN1,Tumor_supressor,NA
+RCC2,Tumor_supressor,NA
+RCHY1,Tumor_supressor,NA
+RCL1,Tumor_supressor,NA
+RCN2,Tumor_supressor,NA
+RCN3,Tumor_supressor,NA
+RCOR2,Tumor_supressor,NA
+RCOR3,Tumor_supressor,NA
+RDH10,Tumor_supressor,NA
+RDH14,Tumor_supressor,NA
+REC8,Tumor_supressor,NA
+RECQL4,Tumor_supressor,NA
+RECQL5,Tumor_supressor,NA
+RECQL,Tumor_supressor,NA
+REEP1,Tumor_supressor,NA
+REEP2,Tumor_supressor,NA
+REEP3,Tumor_supressor,NA
+REEP4,Tumor_supressor,NA
+REEP5,Tumor_supressor,NA
+REEP6,Tumor_supressor,NA
+REG4,Tumor_supressor,NA
+RELL1,Tumor_supressor,NA
+REPS2,Tumor_supressor,NA
+RER1,Tumor_supressor,NA
+REST,Tumor_supressor,NA
+RETN,Tumor_supressor,NA
+RETSAT,Tumor_supressor,NA
+REV3L,Tumor_supressor,NA
+RFC3,Tumor_supressor,NA
+RFC4,Tumor_supressor,NA
+RFC5,Tumor_supressor,NA
+RFFL,Tumor_supressor,NA
+RFTN1,Tumor_supressor,NA
+RFWD3,Tumor_supressor,NA
+RFX2,Tumor_supressor,NA
+RFX3,Tumor_supressor,NA
+RGN,Tumor_supressor,NA
+RGS12,Tumor_supressor,NA
+RGS13,Tumor_supressor,NA
+RGS17,Tumor_supressor,NA
+RGS19,Tumor_supressor,NA
+RGS22,Tumor_supressor,NA
+RHBDD2,Tumor_supressor,NA
+RHBDF1,Tumor_supressor,NA
+RHBDF2,Tumor_supressor,NA
+RHBDL1,Tumor_supressor,NA
+RHEBL1,Tumor_supressor,NA
+RHOBTB1,Tumor_supressor,NA
+RHOBTB2,Tumor_supressor,NA
+RHOB,Tumor_supressor,NA
+RHOH,Tumor_supressor,NA
+RHOT1,Tumor_supressor,NA
+RIBC1,Tumor_supressor,NA
+RIF1,Tumor_supressor,NA
+RILPL1,Tumor_supressor,NA
+RIMKLA,Tumor_supressor,NA
+RIMS4,Tumor_supressor,NA
+RIOK1,Tumor_supressor,NA
+RIPK4,Tumor_supressor,NA
+RIT1,Tumor_supressor,NA
+RNASE1,Tumor_supressor,NA
+RNASE4,Tumor_supressor,NA
+RNASE6,Tumor_supressor,NA
+RNASEH1,Tumor_supressor,NA
+RNASEH2A,Tumor_supressor,NA
+RND2,Tumor_supressor,NA
+RNF103,Tumor_supressor,NA
+RNF11,Tumor_supressor,NA
+RNF121,Tumor_supressor,NA
+RNF122,Tumor_supressor,NA
+RNF126,Tumor_supressor,NA
+RNF130,Tumor_supressor,NA
+RNF135,Tumor_supressor,NA
+RNF146,Tumor_supressor,NA
+RNF157,Tumor_supressor,NA
+RNF168,Tumor_supressor,NA
+RNF181,Tumor_supressor,NA
+RNF207,Tumor_supressor,NA
+RNF208,Tumor_supressor,NA
+RNF212,Tumor_supressor,NA
+RNF214,Tumor_supressor,NA
+RNF215,Tumor_supressor,NA
+RNF216,Tumor_supressor,NA
+RNF220,Tumor_supressor,NA
+RNF26,Tumor_supressor,NA
+RNF2,Tumor_supressor,NA
+RNF31,Tumor_supressor,NA
+RNF39,Tumor_supressor,NA
+RNFT1,Tumor_supressor,NA
+RNH1,Tumor_supressor,NA
+RNPEP,Tumor_supressor,NA
+ROMO1,Tumor_supressor,NA
+ROR2,Tumor_supressor,NA
+RP2,Tumor_supressor,NA
+RP9,Tumor_supressor,NA
+RPAIN,Tumor_supressor,NA
+RPAP2,Tumor_supressor,NA
+RPAP3,Tumor_supressor,NA
+RPF1,Tumor_supressor,NA
+RPF2,Tumor_supressor,NA
+RPGRIP1L,Tumor_supressor,NA
+RPL10A,Tumor_supressor,NA
+RPL10,Tumor_supressor,NA
+RPL12,Tumor_supressor,NA
+RPL13AP17,Tumor_supressor,NA
+RPL13AP20,Tumor_supressor,NA
+RPL13A,Tumor_supressor,NA
+RPL13,Tumor_supressor,NA
+RPL18A,Tumor_supressor,NA
+RPL19,Tumor_supressor,NA
+RPL23A,Tumor_supressor,NA
+RPL29,Tumor_supressor,NA
+RPL32P3,Tumor_supressor,NA
+RPL32,Tumor_supressor,NA
+RPL35,Tumor_supressor,NA
+RPL36A,Tumor_supressor,NA
+RPL36,Tumor_supressor,NA
+RPL39L,Tumor_supressor,NA
+RPL39,Tumor_supressor,NA
+RPL6,Tumor_supressor,NA
+RPL7A,Tumor_supressor,NA
+RPL7L1,Tumor_supressor,NA
+RPL8,Tumor_supressor,NA
+RPL9,Tumor_supressor,NA
+RPLP0,Tumor_supressor,NA
+RPP21,Tumor_supressor,NA
+RPP30,Tumor_supressor,NA
+RPRD1B,Tumor_supressor,NA
+RPRD2,Tumor_supressor,NA
+RPS25,Tumor_supressor,NA
+RPS2,Tumor_supressor,NA
+RPS3,Tumor_supressor,NA
+RPS6KA1,Tumor_supressor,NA
+RPS6KA2,Tumor_supressor,NA
+RPS6KA4,Tumor_supressor,NA
+RPS6KA5,Tumor_supressor,NA
+RPS6KB1,Tumor_supressor,NA
+RPS6KC1,Tumor_supressor,NA
+RPS6,Tumor_supressor,NA
+RPTOR,Tumor_supressor,NA
+RPUSD2,Tumor_supressor,NA
+RRAD,Tumor_supressor,NA
+RRM1,Tumor_supressor,NA
+RRP9,Tumor_supressor,NA
+RSAD2,Tumor_supressor,NA
+RSBN1L,Tumor_supressor,NA
+RSF1,Tumor_supressor,NA
+RSPH3,Tumor_supressor,NA
+RSPH4A,Tumor_supressor,NA
+RSPO1,Tumor_supressor,NA
+RSRC1,Tumor_supressor,NA
+RSU1,Tumor_supressor,NA
+RTKN,Tumor_supressor,NA
+RTN4IP1,Tumor_supressor,NA
+RTP4,Tumor_supressor,NA
+RUFY2,Tumor_supressor,NA
+RUNDC3A,Tumor_supressor,NA
+RUNX1,Tumor_supressor,NA
+RUSC1,Tumor_supressor,NA
+RUVBL1,Tumor_supressor,NA
+RUVBL2,Tumor_supressor,NA
+RWDD1,Tumor_supressor,NA
+RXRB,Tumor_supressor,NA
+RXRG,Tumor_supressor,NA
+RYK,Tumor_supressor,NA
+S100A10,Tumor_supressor,NA
+S100A13,Tumor_supressor,NA
+S100A9,Tumor_supressor,NA
+S100B,Tumor_supressor,NA
+S1PR2,Tumor_supressor,NA
+SACM1L,Tumor_supressor,NA
+SALL4,Tumor_supressor,NA
+SAMD10,Tumor_supressor,NA
+SAP30,Tumor_supressor,NA
+SART1,Tumor_supressor,NA
+SAT2,Tumor_supressor,NA
+SATB1,Tumor_supressor,NA
+SATB2,Tumor_supressor,NA
+SBF1,Tumor_supressor,NA
+SBK1,Tumor_supressor,NA
+SCAMP2,Tumor_supressor,NA
+SCAPER,Tumor_supressor,NA
+SCARNA5,Tumor_supressor,NA
+SCCPDH,Tumor_supressor,NA
+SCD,Tumor_supressor,NA
+SCEL,Tumor_supressor,NA
+SCFD1,Tumor_supressor,NA
+SCFD2,Tumor_supressor,NA
+SCG2,Tumor_supressor,NA
+SCG3,Tumor_supressor,NA
+SCGB1A1,Tumor_supressor,NA
+SCGB3A1,Tumor_supressor,NA
+SCLT1,Tumor_supressor,NA
+SCML2,Tumor_supressor,NA
+SCN1B,Tumor_supressor,NA
+SCN3B,Tumor_supressor,NA
+SCNN1B,Tumor_supressor,NA
+SCUBE2,Tumor_supressor,NA
+SCUBE3,Tumor_supressor,NA
+SCYL1,Tumor_supressor,NA
+SDAD1,Tumor_supressor,NA
+SDC3,Tumor_supressor,NA
+SDF2L1,Tumor_supressor,NA
+SDHAP1,Tumor_supressor,NA
+SDR39U1,Tumor_supressor,NA
+SEC14L3,Tumor_supressor,NA
+SEC16A,Tumor_supressor,NA
+SEC23IP,Tumor_supressor,NA
+SEC61G,Tumor_supressor,NA
+SEL1L,Tumor_supressor,NA
+SELENBP1,Tumor_supressor,NA
+SEMA3A,Tumor_supressor,NA
+SEMA3G,Tumor_supressor,NA
+SEMA4D,Tumor_supressor,NA
+SEMA4F,Tumor_supressor,NA
+SEMA7A,Tumor_supressor,NA
+SENP1,Tumor_supressor,NA
+SENP3,Tumor_supressor,NA
+SERBP1,Tumor_supressor,NA
+SERHL2,Tumor_supressor,NA
+SERINC2,Tumor_supressor,NA
+SERINC3,Tumor_supressor,NA
+SERPINA3,Tumor_supressor,NA
+SERPINB9,Tumor_supressor,NA
+SERPINH1,Tumor_supressor,NA
+SESN1,Tumor_supressor,NA
+SESTD1,Tumor_supressor,NA
+SETD6,Tumor_supressor,NA
+SETDB2,Tumor_supressor,NA
+SETMAR,Tumor_supressor,NA
+SET,Tumor_supressor,NA
+SF3B2,Tumor_supressor,NA
+SF3B3,Tumor_supressor,NA
+SF3B4,Tumor_supressor,NA
+SFMBT1,Tumor_supressor,NA
+SFPQ,Tumor_supressor,NA
+SFRP2,Tumor_supressor,NA
+SFTA1P,Tumor_supressor,NA
+SFTA2,Tumor_supressor,NA
+SFTPA1,Tumor_supressor,NA
+SFTPA2,Tumor_supressor,NA
+SFTPB,Tumor_supressor,NA
+SFTPD,Tumor_supressor,NA
+SFXN3,Tumor_supressor,NA
+SGCA,Tumor_supressor,NA
+SGCB,Tumor_supressor,NA
+SGK1,Tumor_supressor,NA
+SGK3,Tumor_supressor,NA
+SGPL1,Tumor_supressor,NA
+SGTA,Tumor_supressor,NA
+SGTB,Tumor_supressor,NA
+SH2B2,Tumor_supressor,NA
+SH2D1A,Tumor_supressor,NA
+SH2D3A,Tumor_supressor,NA
+SH3BGRL3,Tumor_supressor,NA
+SH3BP4,Tumor_supressor,NA
+SH3BP5L,Tumor_supressor,NA
+SH3GL1,Tumor_supressor,NA
+SH3GL2,Tumor_supressor,NA
+SH3GL3,Tumor_supressor,NA
+SH3KBP1,Tumor_supressor,NA
+SHANK2,Tumor_supressor,NA
+SHC1,Tumor_supressor,NA
+SHC3,Tumor_supressor,NA
+SHCBP1,Tumor_supressor,NA
+SHISA4,Tumor_supressor,NA
+SHPK,Tumor_supressor,NA
+SHROOM2,Tumor_supressor,NA
+SHROOM3,Tumor_supressor,NA
+SIAH1,Tumor_supressor,NA
+SIAH2,Tumor_supressor,NA
+SIDT2,Tumor_supressor,NA
+SIGLEC1,Tumor_supressor,NA
+SIGLEC5,Tumor_supressor,NA
+SIGLEC8,Tumor_supressor,NA
+SIGLEC9,Tumor_supressor,NA
+SIK2,Tumor_supressor,NA
+SIM2,Tumor_supressor,NA
+SIRPB1,Tumor_supressor,NA
+SIRPB2,Tumor_supressor,NA
+SIRT2,Tumor_supressor,NA
+SIRT3,Tumor_supressor,NA
+SIRT4,Tumor_supressor,NA
+SIX1,Tumor_supressor,NA
+SKA2,Tumor_supressor,NA
+SKA3,Tumor_supressor,NA
+SKAP1,Tumor_supressor,NA
+SKAP2,Tumor_supressor,NA
+SKIV2L,Tumor_supressor,NA
+SKP2,Tumor_supressor,NA
+SLAIN1,Tumor_supressor,NA
+SLAMF8,Tumor_supressor,NA
+SLA,Tumor_supressor,NA
+SLBP,Tumor_supressor,NA
+SLC12A2,Tumor_supressor,NA
+SLC13A2,Tumor_supressor,NA
+SLC13A3,Tumor_supressor,NA
+SLC14A1,Tumor_supressor,NA
+SLC15A3,Tumor_supressor,NA
+SLC16A10,Tumor_supressor,NA
+SLC16A11,Tumor_supressor,NA
+SLC16A1,Tumor_supressor,NA
+SLC16A5,Tumor_supressor,NA
+SLC16A6,Tumor_supressor,NA
+SLC16A7,Tumor_supressor,NA
+SLC17A5,Tumor_supressor,NA
+SLC1A1,Tumor_supressor,NA
+SLC1A3,Tumor_supressor,NA
+SLC1A5,Tumor_supressor,NA
+SLC22A15,Tumor_supressor,NA
+SLC22A18AS,Tumor_supressor,NA
+SLC22A18,Tumor_supressor,NA
+SLC22A3,Tumor_supressor,NA
+SLC23A2,Tumor_supressor,NA
+SLC25A13,Tumor_supressor,NA
+SLC25A15,Tumor_supressor,NA
+SLC25A20,Tumor_supressor,NA
+SLC25A23,Tumor_supressor,NA
+SLC25A25,Tumor_supressor,NA
+SLC25A37,Tumor_supressor,NA
+SLC25A42,Tumor_supressor,NA
+SLC25A46,Tumor_supressor,NA
+SLC25A5,Tumor_supressor,NA
+SLC26A1,Tumor_supressor,NA
+SLC26A2,Tumor_supressor,NA
+SLC26A6,Tumor_supressor,NA
+SLC27A1,Tumor_supressor,NA
+SLC29A4,Tumor_supressor,NA
+SLC2A12,Tumor_supressor,NA
+SLC2A6,Tumor_supressor,NA
+SLC30A9,Tumor_supressor,NA
+SLC34A2,Tumor_supressor,NA
+SLC35A1,Tumor_supressor,NA
+SLC35A4,Tumor_supressor,NA
+SLC35A5,Tumor_supressor,NA
+SLC35C1,Tumor_supressor,NA
+SLC35D1,Tumor_supressor,NA
+SLC35E3,Tumor_supressor,NA
+SLC35E4,Tumor_supressor,NA
+SLC37A3,Tumor_supressor,NA
+SLC38A10,Tumor_supressor,NA
+SLC38A1,Tumor_supressor,NA
+SLC39A3,Tumor_supressor,NA
+SLC39A4,Tumor_supressor,NA
+SLC39A6,Tumor_supressor,NA
+SLC39A8,Tumor_supressor,NA
+SLC39A9,Tumor_supressor,NA
+SLC3A2,Tumor_supressor,NA
+SLC41A3,Tumor_supressor,NA
+SLC43A2,Tumor_supressor,NA
+SLC45A3,Tumor_supressor,NA
+SLC46A2,Tumor_supressor,NA
+SLC47A1,Tumor_supressor,NA
+SLC48A1,Tumor_supressor,NA
+SLC4A11,Tumor_supressor,NA
+SLC4A3,Tumor_supressor,NA
+SLC4A4,Tumor_supressor,NA
+SLC5A1,Tumor_supressor,NA
+SLC6A17,Tumor_supressor,NA
+SLC6A20,Tumor_supressor,NA
+SLC6A8,Tumor_supressor,NA
+SLC9A1,Tumor_supressor,NA
+SLC9A5,Tumor_supressor,NA
+SLCO2A1,Tumor_supressor,NA
+SLCO2B1,Tumor_supressor,NA
+SLCO4C1,Tumor_supressor,NA
+SLFN12,Tumor_supressor,NA
+SLFN13,Tumor_supressor,NA
+SLFNL1,Tumor_supressor,NA
+SLPI,Tumor_supressor,NA
+SMAD1,Tumor_supressor,NA
+SMAD6,Tumor_supressor,NA
+SMARCAL1,Tumor_supressor,NA
+SMARCB1,Tumor_supressor,NA
+SMARCD3,Tumor_supressor,NA
+SMC1B,Tumor_supressor,NA
+SMC2,Tumor_supressor,NA
+SMC3,Tumor_supressor,NA
+SMC4,Tumor_supressor,NA
+SMC6,Tumor_supressor,NA
+SMCHD1,Tumor_supressor,NA
+SMG1,Tumor_supressor,NA
+SMNDC1,Tumor_supressor,NA
+SMO,Tumor_supressor,NA
+SMPD1,Tumor_supressor,NA
+SMYD4,Tumor_supressor,NA
+SMYD5,Tumor_supressor,NA
+SNAP23,Tumor_supressor,NA
+SNAPC1,Tumor_supressor,NA
+SNAPC4,Tumor_supressor,NA
+SNAPIN,Tumor_supressor,NA
+SNCAIP,Tumor_supressor,NA
+SNF8,Tumor_supressor,NA
+SNHG8,Tumor_supressor,NA
+SNORA23,Tumor_supressor,NA
+SNRNP200,Tumor_supressor,NA
+SNRNP40,Tumor_supressor,NA
+SNRPB2,Tumor_supressor,NA
+SNRPB,Tumor_supressor,NA
+SNRPC,Tumor_supressor,NA
+SNRPD1,Tumor_supressor,NA
+SNRPD2,Tumor_supressor,NA
+SNRPD3,Tumor_supressor,NA
+SNRPE,Tumor_supressor,NA
+SNRPF,Tumor_supressor,NA
+SNRPG,Tumor_supressor,NA
+SNW1,Tumor_supressor,NA
+SNX14,Tumor_supressor,NA
+SNX16,Tumor_supressor,NA
+SNX20,Tumor_supressor,NA
+SNX22,Tumor_supressor,NA
+SNX24,Tumor_supressor,NA
+SNX25,Tumor_supressor,NA
+SNX29,Tumor_supressor,NA
+SNX2,Tumor_supressor,NA
+SNX3,Tumor_supressor,NA
+SNX9,Tumor_supressor,NA
+SORBS1,Tumor_supressor,NA
+SORBS2,Tumor_supressor,NA
+SORT1,Tumor_supressor,NA
+SOS1,Tumor_supressor,NA
+SOX2,Tumor_supressor,NA
+SOX30,Tumor_supressor,NA
+SOX5,Tumor_supressor,NA
+SP140L,Tumor_supressor,NA
+SP1,Tumor_supressor,NA
+SP5,Tumor_supressor,NA
+SPAG7,Tumor_supressor,NA
+SPATA13,Tumor_supressor,NA
+SPATA18,Tumor_supressor,NA
+SPATA20,Tumor_supressor,NA
+SPATA5,Tumor_supressor,NA
+SPATA6,Tumor_supressor,NA
+SPC24,Tumor_supressor,NA
+SPC25,Tumor_supressor,NA
+SPEF2,Tumor_supressor,NA
+SPG7,Tumor_supressor,NA
+SPI1,Tumor_supressor,NA
+SPIRE2,Tumor_supressor,NA
+SPOCD1,Tumor_supressor,NA
+SPOPL,Tumor_supressor,NA
+SPOP,Tumor_supressor,NA
+SPP1,Tumor_supressor,NA
+SPRY4,Tumor_supressor,NA
+SPR,Tumor_supressor,NA
+SPTBN2,Tumor_supressor,NA
+SPTBN4,Tumor_supressor,NA
+SQSTM1,Tumor_supressor,NA
+SRD5A1,Tumor_supressor,NA
+SREBF2,Tumor_supressor,NA
+SRFBP1,Tumor_supressor,NA
+SRRT,Tumor_supressor,NA
+SRXN1,Tumor_supressor,NA
+SS18L1,Tumor_supressor,NA
+SSBP1,Tumor_supressor,NA
+SSB,Tumor_supressor,NA
+SSH1,Tumor_supressor,NA
+SSH2,Tumor_supressor,NA
+SSR1,Tumor_supressor,NA
+SSR2,Tumor_supressor,NA
+SSU72,Tumor_supressor,NA
+SSX2IP,Tumor_supressor,NA
+ST20,Tumor_supressor,NA
+ST6GALNAC1,Tumor_supressor,NA
+ST6GALNAC3,Tumor_supressor,NA
+ST6GALNAC4,Tumor_supressor,NA
+STAMBPL1,Tumor_supressor,NA
+STARD10,Tumor_supressor,NA
+STARD3,Tumor_supressor,NA
+STARD4,Tumor_supressor,NA
+STAT1,Tumor_supressor,NA
+STAT4,Tumor_supressor,NA
+STAT5A,Tumor_supressor,NA
+STAT6,Tumor_supressor,NA
+STEAP1,Tumor_supressor,NA
+STEAP4,Tumor_supressor,NA
+STIM1,Tumor_supressor,NA
+STIP1,Tumor_supressor,NA
+STK11IP,Tumor_supressor,NA
+STK16,Tumor_supressor,NA
+STK19,Tumor_supressor,NA
+STK32A,Tumor_supressor,NA
+STK32C,Tumor_supressor,NA
+STK38L,Tumor_supressor,NA
+STK3,Tumor_supressor,NA
+STMN1,Tumor_supressor,NA
+STOML2,Tumor_supressor,NA
+STOX2,Tumor_supressor,NA
+STRA6,Tumor_supressor,NA
+STRADB,Tumor_supressor,NA
+STRBP,Tumor_supressor,NA
+STRN3,Tumor_supressor,NA
+STRN4,Tumor_supressor,NA
+STT3B,Tumor_supressor,NA
+STX12,Tumor_supressor,NA
+STX16,Tumor_supressor,NA
+STX18,Tumor_supressor,NA
+STX3,Tumor_supressor,NA
+STX7,Tumor_supressor,NA
+STXBP1,Tumor_supressor,NA
+STXBP4,Tumor_supressor,NA
+STYXL1,Tumor_supressor,NA
+STYX,Tumor_supressor,NA
+SUDS3,Tumor_supressor,NA
+SUGT1,Tumor_supressor,NA
+SULF1,Tumor_supressor,NA
+SULT1A1,Tumor_supressor,NA
+SULT1A2,Tumor_supressor,NA
+SULT1C2,Tumor_supressor,NA
+SUMO1,Tumor_supressor,NA
+SUMO2,Tumor_supressor,NA
+SUN1,Tumor_supressor,NA
+SUOX,Tumor_supressor,NA
+SUPT16H,Tumor_supressor,NA
+SURF2,Tumor_supressor,NA
+SUSD1,Tumor_supressor,NA
+SUSD2,Tumor_supressor,NA
+SUV39H1,Tumor_supressor,NA
+SUZ12,Tumor_supressor,NA
+SVIP,Tumor_supressor,NA
+SYDE2,Tumor_supressor,NA
+SYNGR1,Tumor_supressor,NA
+SYNJ2,Tumor_supressor,NA
+SYNPO2L,Tumor_supressor,NA
+SYS1,Tumor_supressor,NA
+SYT4,Tumor_supressor,NA
+SYT8,Tumor_supressor,NA
+SYTL2,Tumor_supressor,NA
+TACC2,Tumor_supressor,NA
+TADA1,Tumor_supressor,NA
+TADA2A,Tumor_supressor,NA
+TAF12,Tumor_supressor,NA
+TAF13,Tumor_supressor,NA
+TAF15,Tumor_supressor,NA
+TAF1A,Tumor_supressor,NA
+TAF1B,Tumor_supressor,NA
+TAF3,Tumor_supressor,NA
+TAF4B,Tumor_supressor,NA
+TAF5,Tumor_supressor,NA
+TAF6,Tumor_supressor,NA
+TAGAP,Tumor_supressor,NA
+TAOK1,Tumor_supressor,NA
+TAPBP,Tumor_supressor,NA
+TAPT1,Tumor_supressor,NA
+TATDN2,Tumor_supressor,NA
+TATDN3,Tumor_supressor,NA
+TAX1BP1,Tumor_supressor,NA
+TBC1D10B,Tumor_supressor,NA
+TBC1D15,Tumor_supressor,NA
+TBC1D22A,Tumor_supressor,NA
+TBC1D2,Tumor_supressor,NA
+TBC1D7,Tumor_supressor,NA
+TBC1D9,Tumor_supressor,NA
+TBCA,Tumor_supressor,NA
+TBCCD1,Tumor_supressor,NA
+TBCC,Tumor_supressor,NA
+TBCD,Tumor_supressor,NA
+TBL1XR1,Tumor_supressor,NA
+TBL1X,Tumor_supressor,NA
+TBX15,Tumor_supressor,NA
+TBX18,Tumor_supressor,NA
+TBX3,Tumor_supressor,NA
+TBXA2R,Tumor_supressor,NA
+TBXAS1,Tumor_supressor,NA
+TCEAL4,Tumor_supressor,NA
+TCERG1,Tumor_supressor,NA
+TCF19,Tumor_supressor,NA
+TCF25,Tumor_supressor,NA
+TCF7L2,Tumor_supressor,NA
+TCFL5,Tumor_supressor,NA
+TCOF1,Tumor_supressor,NA
+TCP11L2,Tumor_supressor,NA
+TCTA,Tumor_supressor,NA
+TDRD10,Tumor_supressor,NA
+TDRD3,Tumor_supressor,NA
+TEAD2,Tumor_supressor,NA
+TEF,Tumor_supressor,NA
+TEKT1,Tumor_supressor,NA
+TEKT2,Tumor_supressor,NA
+TEKT4,Tumor_supressor,NA
+TET2,Tumor_supressor,NA
+TEX10,Tumor_supressor,NA
+TEX14,Tumor_supressor,NA
+TEX2,Tumor_supressor,NA
+TEX9,Tumor_supressor,NA
+TFAM,Tumor_supressor,NA
+TFDP1,Tumor_supressor,NA
+TFF3,Tumor_supressor,NA
+TFIP11,Tumor_supressor,NA
+TFPI,Tumor_supressor,NA
+TFR2,Tumor_supressor,NA
+TGFB2,Tumor_supressor,NA
+TGFBI,Tumor_supressor,NA
+TGIF2,Tumor_supressor,NA
+TGM2,Tumor_supressor,NA
+THBD,Tumor_supressor,NA
+THBS2,Tumor_supressor,NA
+THBS3,Tumor_supressor,NA
+THEMIS,Tumor_supressor,NA
+THOC3,Tumor_supressor,NA
+THOP1,Tumor_supressor,NA
+THRAP3,Tumor_supressor,NA
+THRB,Tumor_supressor,NA
+THUMPD2,Tumor_supressor,NA
+THUMPD3,Tumor_supressor,NA
+THY1,Tumor_supressor,NA
+TIAF1,Tumor_supressor,NA
+TIAM2,Tumor_supressor,NA
+TICAM1,Tumor_supressor,NA
+TIGD5,Tumor_supressor,NA
+TIGIT,Tumor_supressor,NA
+TIMELESS,Tumor_supressor,NA
+TIMM17B,Tumor_supressor,NA
+TIMM44,Tumor_supressor,NA
+TIMM8B,Tumor_supressor,NA
+TINAG,Tumor_supressor,NA
+TIPRL,Tumor_supressor,NA
+TIRAP,Tumor_supressor,NA
+TJP3,Tumor_supressor,NA
+TK2,Tumor_supressor,NA
+TKT,Tumor_supressor,NA
+TLE3,Tumor_supressor,NA
+TLE4,Tumor_supressor,NA
+TLK1,Tumor_supressor,NA
+TLK2,Tumor_supressor,NA
+TLL2,Tumor_supressor,NA
+TLR2,Tumor_supressor,NA
+TLR5,Tumor_supressor,NA
+TLR6,Tumor_supressor,NA
+TM2D1,Tumor_supressor,NA
+TM4SF18,Tumor_supressor,NA
+TM4SF19,Tumor_supressor,NA
+TM9SF1,Tumor_supressor,NA
+TMBIM1,Tumor_supressor,NA
+TMC4,Tumor_supressor,NA
+TMCO6,Tumor_supressor,NA
+TMED5,Tumor_supressor,NA
+TMED7,Tumor_supressor,NA
+TMED8,Tumor_supressor,NA
+TMED9,Tumor_supressor,NA
+TMEM106A,Tumor_supressor,NA
+TMEM106B,Tumor_supressor,NA
+TMEM115,Tumor_supressor,NA
+TMEM11,Tumor_supressor,NA
+TMEM120B,Tumor_supressor,NA
+TMEM123,Tumor_supressor,NA
+TMEM125,Tumor_supressor,NA
+TMEM126B,Tumor_supressor,NA
+TMEM130,Tumor_supressor,NA
+TMEM131,Tumor_supressor,NA
+TMEM132D,Tumor_supressor,NA
+TMEM135,Tumor_supressor,NA
+TMEM140,Tumor_supressor,NA
+TMEM14B,Tumor_supressor,NA
+TMEM150B,Tumor_supressor,NA
+TMEM158,Tumor_supressor,NA
+TMEM164,Tumor_supressor,NA
+TMEM168,Tumor_supressor,NA
+TMEM171,Tumor_supressor,NA
+TMEM177,Tumor_supressor,NA
+TMEM179B,Tumor_supressor,NA
+TMEM183A,Tumor_supressor,NA
+TMEM184B,Tumor_supressor,NA
+TMEM184C,Tumor_supressor,NA
+TMEM185A,Tumor_supressor,NA
+TMEM185B,Tumor_supressor,NA
+TMEM187,Tumor_supressor,NA
+TMEM19,Tumor_supressor,NA
+TMEM201,Tumor_supressor,NA
+TMEM208,Tumor_supressor,NA
+TMEM209,Tumor_supressor,NA
+TMEM213,Tumor_supressor,NA
+TMEM214,Tumor_supressor,NA
+TMEM220,Tumor_supressor,NA
+TMEM223,Tumor_supressor,NA
+TMEM231,Tumor_supressor,NA
+TMEM232,Tumor_supressor,NA
+TMEM37,Tumor_supressor,NA
+TMEM43,Tumor_supressor,NA
+TMEM45A,Tumor_supressor,NA
+TMEM59,Tumor_supressor,NA
+TMEM62,Tumor_supressor,NA
+TMEM63C,Tumor_supressor,NA
+TMEM68,Tumor_supressor,NA
+TMEM70,Tumor_supressor,NA
+TMEM71,Tumor_supressor,NA
+TMEM86A,Tumor_supressor,NA
+TMEM87A,Tumor_supressor,NA
+TMEM8B,Tumor_supressor,NA
+TMEM9B,Tumor_supressor,NA
+TMIE,Tumor_supressor,NA
+TMLHE,Tumor_supressor,NA
+TMOD3,Tumor_supressor,NA
+TMPO,Tumor_supressor,NA
+TMPRSS11D,Tumor_supressor,NA
+TMPRSS13,Tumor_supressor,NA
+TMPRSS3,Tumor_supressor,NA
+TMSB10,Tumor_supressor,NA
+TMTC1,Tumor_supressor,NA
+TMTC4,Tumor_supressor,NA
+TMUB1,Tumor_supressor,NA
+TNFAIP2,Tumor_supressor,NA
+TNFAIP8,Tumor_supressor,NA
+TNFRSF10A,Tumor_supressor,NA
+TNFRSF10D,Tumor_supressor,NA
+TNFRSF17,Tumor_supressor,NA
+TNFRSF19,Tumor_supressor,NA
+TNFRSF1B,Tumor_supressor,NA
+TNFRSF8,Tumor_supressor,NA
+TNFSF11,Tumor_supressor,NA
+TNFSF4,Tumor_supressor,NA
+TNFSF8,Tumor_supressor,NA
+TNNI1,Tumor_supressor,NA
+TNNI2,Tumor_supressor,NA
+TNPO2,Tumor_supressor,NA
+TOLLIP,Tumor_supressor,NA
+TOMM40L,Tumor_supressor,NA
+TOMM5,Tumor_supressor,NA
+TOP1MT,Tumor_supressor,NA
+TOP3A,Tumor_supressor,NA
+TOPBP1,Tumor_supressor,NA
+TOR1AIP2,Tumor_supressor,NA
+TOR1B,Tumor_supressor,NA
+TOX3,Tumor_supressor,NA
+TP53BP1,Tumor_supressor,NA
+TP53I13,Tumor_supressor,NA
+TP53INP1,Tumor_supressor,NA
+TP53INP2,Tumor_supressor,NA
+TP73,Tumor_supressor,NA
+TPK1,Tumor_supressor,NA
+TPM3,Tumor_supressor,NA
+TPP2,Tumor_supressor,NA
+TPPP,Tumor_supressor,NA
+TPRG1L,Tumor_supressor,NA
+TPRKB,Tumor_supressor,NA
+TPSAB1,Tumor_supressor,NA
+TPST2,Tumor_supressor,NA
+TPX2,Tumor_supressor,NA
+TRAF3IP2,Tumor_supressor,NA
+TRAF3IP3,Tumor_supressor,NA
+TRAF4,Tumor_supressor,NA
+TRAF7,Tumor_supressor,NA
+TRAIP,Tumor_supressor,NA
+TRAPPC2L,Tumor_supressor,NA
+TRAPPC2,Tumor_supressor,NA
+TRAPPC4,Tumor_supressor,NA
+TRAT1,Tumor_supressor,NA
+TRDMT1,Tumor_supressor,NA
+TREM1,Tumor_supressor,NA
+TREM2,Tumor_supressor,NA
+TRIB3,Tumor_supressor,NA
+TRIL,Tumor_supressor,NA
+TRIM25,Tumor_supressor,NA
+TRIM2,Tumor_supressor,NA
+TRIM33,Tumor_supressor,NA
+TRIM35,Tumor_supressor,NA
+TRIM56,Tumor_supressor,NA
+TRIM65,Tumor_supressor,NA
+TRIM68,Tumor_supressor,NA
+TRIM6,Tumor_supressor,NA
+TRIM9,Tumor_supressor,NA
+TRIP11,Tumor_supressor,NA
+TRIP6,Tumor_supressor,NA
+TRMT112,Tumor_supressor,NA
+TRMT2B,Tumor_supressor,NA
+TRMT61A,Tumor_supressor,NA
+TRMT61B,Tumor_supressor,NA
+TRMU,Tumor_supressor,NA
+TROAP,Tumor_supressor,NA
+TRPT1,Tumor_supressor,NA
+TRPV1,Tumor_supressor,NA
+TRRAP,Tumor_supressor,NA
+TRUB1,Tumor_supressor,NA
+TSC22D2,Tumor_supressor,NA
+TSC22D3,Tumor_supressor,NA
+TSC2,Tumor_supressor,NA
+TSG101,Tumor_supressor,NA
+TSKU,Tumor_supressor,NA
+TSLP,Tumor_supressor,NA
+TSNAX,Tumor_supressor,NA
+TSPAN10,Tumor_supressor,NA
+TSPAN17,Tumor_supressor,NA
+TSPAN18,Tumor_supressor,NA
+TSPAN32,Tumor_supressor,NA
+TSPAN33,Tumor_supressor,NA
+TSPAN5,Tumor_supressor,NA
+TSPO,Tumor_supressor,NA
+TSPYL1,Tumor_supressor,NA
+TSR1,Tumor_supressor,NA
+TTC13,Tumor_supressor,NA
+TTC17,Tumor_supressor,NA
+TTC21A,Tumor_supressor,NA
+TTC22,Tumor_supressor,NA
+TTC27,Tumor_supressor,NA
+TTC29,Tumor_supressor,NA
+TTC38,Tumor_supressor,NA
+TTC5,Tumor_supressor,NA
+TTC7B,Tumor_supressor,NA
+TTC9C,Tumor_supressor,NA
+TTF1,Tumor_supressor,NA
+TTK,Tumor_supressor,NA
+TTLL10,Tumor_supressor,NA
+TTLL12,Tumor_supressor,NA
+TTLL5,Tumor_supressor,NA
+TTLL7,Tumor_supressor,NA
+TTPAL,Tumor_supressor,NA
+TUBA4A,Tumor_supressor,NA
+TUBB1,Tumor_supressor,NA
+TUBB3,Tumor_supressor,NA
+TUBB,Tumor_supressor,NA
+TUBG1,Tumor_supressor,NA
+TUBGCP2,Tumor_supressor,NA
+TUBGCP4,Tumor_supressor,NA
+TUBGCP5,Tumor_supressor,NA
+TUFT1,Tumor_supressor,NA
+TULP3,Tumor_supressor,NA
+TWF1,Tumor_supressor,NA
+TWIST2,Tumor_supressor,NA
+TXNDC12,Tumor_supressor,NA
+TXNDC15,Tumor_supressor,NA
+TXNL1,Tumor_supressor,NA
+TXNL4A,Tumor_supressor,NA
+TYRP1,Tumor_supressor,NA
+UBA2,Tumor_supressor,NA
+UBA3,Tumor_supressor,NA
+UBAC2,Tumor_supressor,NA
+UBAP2L,Tumor_supressor,NA
+UBASH3A,Tumor_supressor,NA
+UBASH3B,Tumor_supressor,NA
+UBB,Tumor_supressor,NA
+UBE2A,Tumor_supressor,NA
+UBE2B,Tumor_supressor,NA
+UBE2C,Tumor_supressor,NA
+UBE2D1,Tumor_supressor,NA
+UBE2E3,Tumor_supressor,NA
+UBE2I,Tumor_supressor,NA
+UBE2K,Tumor_supressor,NA
+UBE2M,Tumor_supressor,NA
+UBE2N,Tumor_supressor,NA
+UBE2O,Tumor_supressor,NA
+UBE2Q2,Tumor_supressor,NA
+UBE2V1,Tumor_supressor,NA
+UBE3B,Tumor_supressor,NA
+UBE4B,Tumor_supressor,NA
+UBP1,Tumor_supressor,NA
+UBR5,Tumor_supressor,NA
+UBR7,Tumor_supressor,NA
+UBTD1,Tumor_supressor,NA
+UBXN11,Tumor_supressor,NA
+UEVLD,Tumor_supressor,NA
+UFSP1,Tumor_supressor,NA
+UGCG,Tumor_supressor,NA
+UGGT1,Tumor_supressor,NA
+UGT8,Tumor_supressor,NA
+ULK2,Tumor_supressor,NA
+UNC13A,Tumor_supressor,NA
+UNC13B,Tumor_supressor,NA
+UNC5B,Tumor_supressor,NA
+UNG,Tumor_supressor,NA
+UPF2,Tumor_supressor,NA
+UPF3B,Tumor_supressor,NA
+UPP1,Tumor_supressor,NA
+UQCR10,Tumor_supressor,NA
+UQCRC1,Tumor_supressor,NA
+UQCRH,Tumor_supressor,NA
+USF2,Tumor_supressor,NA
+USP10,Tumor_supressor,NA
+USP11,Tumor_supressor,NA
+USP14,Tumor_supressor,NA
+USP1,Tumor_supressor,NA
+USP24,Tumor_supressor,NA
+USP28,Tumor_supressor,NA
+USP2,Tumor_supressor,NA
+USP32,Tumor_supressor,NA
+USP33,Tumor_supressor,NA
+USP35,Tumor_supressor,NA
+USP37,Tumor_supressor,NA
+USP54,Tumor_supressor,NA
+USP6NL,Tumor_supressor,NA
+USP8,Tumor_supressor,NA
+UTP20,Tumor_supressor,NA
+UXS1,Tumor_supressor,NA
+VAMP4,Tumor_supressor,NA
+VAMP5,Tumor_supressor,NA
+VASP,Tumor_supressor,NA
+VAV1,Tumor_supressor,NA
+VDAC3,Tumor_supressor,NA
+VDR,Tumor_supressor,NA
+VEZT,Tumor_supressor,NA
+VGLL1,Tumor_supressor,NA
+VGLL3,Tumor_supressor,NA
+VIL1,Tumor_supressor,NA
+VIM,Tumor_supressor,NA
+VIPR1,Tumor_supressor,NA
+VMA21,Tumor_supressor,NA
+VOPP1,Tumor_supressor,NA
+VPS13D,Tumor_supressor,NA
+VPS29,Tumor_supressor,NA
+VPS37D,Tumor_supressor,NA
+VPS39,Tumor_supressor,NA
+VPS45,Tumor_supressor,NA
+VPS4A,Tumor_supressor,NA
+VPS72,Tumor_supressor,NA
+VRK1,Tumor_supressor,NA
+VSIG10L,Tumor_supressor,NA
+VSIG2,Tumor_supressor,NA
+VTI1A,Tumor_supressor,NA
+VWA3A,Tumor_supressor,NA
+VWA5A,Tumor_supressor,NA
+VWDE,Tumor_supressor,NA
+WASF1,Tumor_supressor,NA
+WAS,Tumor_supressor,NA
+WBP2,Tumor_supressor,NA
+WDFY1,Tumor_supressor,NA
+WDHD1,Tumor_supressor,NA
+WDR11,Tumor_supressor,NA
+WDR19,Tumor_supressor,NA
+WDR26,Tumor_supressor,NA
+WDR36,Tumor_supressor,NA
+WDR37,Tumor_supressor,NA
+WDR3,Tumor_supressor,NA
+WDR43,Tumor_supressor,NA
+WDR49,Tumor_supressor,NA
+WDR4,Tumor_supressor,NA
+WDR55,Tumor_supressor,NA
+WDR62,Tumor_supressor,NA
+WDR70,Tumor_supressor,NA
+WDR74,Tumor_supressor,NA
+WDR75,Tumor_supressor,NA
+WDR76,Tumor_supressor,NA
+WDR82,Tumor_supressor,NA
+WDR83,Tumor_supressor,NA
+WDR90,Tumor_supressor,NA
+WDTC1,Tumor_supressor,NA
+WFDC1,Tumor_supressor,NA
+WFIKKN1,Tumor_supressor,NA
+WHAMM,Tumor_supressor,NA
+WNT10A,Tumor_supressor,NA
+WNT16,Tumor_supressor,NA
+WNT2B,Tumor_supressor,NA
+WNT9A,Tumor_supressor,NA
+WRAP53,Tumor_supressor,NA
+WRNIP1,Tumor_supressor,NA
+WTAP,Tumor_supressor,NA
+WTIP,Tumor_supressor,NA
+WWC2,Tumor_supressor,NA
+WWC3,Tumor_supressor,NA
+XAGE2,Tumor_supressor,NA
+XDH,Tumor_supressor,NA
+XIRP1,Tumor_supressor,NA
+XPA,Tumor_supressor,NA
+XPNPEP3,Tumor_supressor,NA
+XPO6,Tumor_supressor,NA
+XPOT,Tumor_supressor,NA
+XPR1,Tumor_supressor,NA
+XRCC1,Tumor_supressor,NA
+XRCC2,Tumor_supressor,NA
+XRCC4,Tumor_supressor,NA
+XYLT1,Tumor_supressor,NA
+YBX2,Tumor_supressor,NA
+YDJC,Tumor_supressor,NA
+YIPF4,Tumor_supressor,NA
+YJEFN3,Tumor_supressor,NA
+YOD1,Tumor_supressor,NA
+YTHDF3,Tumor_supressor,NA
+YWHAQ,Tumor_supressor,NA
+YWHAZ,Tumor_supressor,NA
+YY1AP1,Tumor_supressor,NA
+YY1,Tumor_supressor,NA
+ZAP70,Tumor_supressor,NA
+ZBED1,Tumor_supressor,NA
+ZBED5,Tumor_supressor,NA
+ZBP1,Tumor_supressor,NA
+ZBTB10,Tumor_supressor,NA
+ZBTB17,Tumor_supressor,NA
+ZBTB26,Tumor_supressor,NA
+ZBTB47,Tumor_supressor,NA
+ZBTB7A,Tumor_supressor,NA
+ZBTB7B,Tumor_supressor,NA
+ZBTB7C,Tumor_supressor,NA
+ZBTB8OS,Tumor_supressor,NA
+ZC3H12C,Tumor_supressor,NA
+ZC3H18,Tumor_supressor,NA
+ZC3H7B,Tumor_supressor,NA
+ZCCHC4,Tumor_supressor,NA
+ZDHHC12,Tumor_supressor,NA
+ZDHHC1,Tumor_supressor,NA
+ZFAND6,Tumor_supressor,NA
+ZFAT,Tumor_supressor,NA
+ZFC3H1,Tumor_supressor,NA
+ZFP28,Tumor_supressor,NA
+ZFP2,Tumor_supressor,NA
+ZFP3,Tumor_supressor,NA
+ZFP41,Tumor_supressor,NA
+ZFPL1,Tumor_supressor,NA
+ZFR2,Tumor_supressor,NA
+ZFYVE27,Tumor_supressor,NA
+ZGPAT,Tumor_supressor,NA
+ZKSCAN2,Tumor_supressor,NA
+ZMAT1,Tumor_supressor,NA
+ZMPSTE24,Tumor_supressor,NA
+ZMYM2,Tumor_supressor,NA
+ZMYND10,Tumor_supressor,NA
+ZMYND11,Tumor_supressor,NA
+ZMYND15,Tumor_supressor,NA
+ZNF100,Tumor_supressor,NA
+ZNF107,Tumor_supressor,NA
+ZNF132,Tumor_supressor,NA
+ZNF136,Tumor_supressor,NA
+ZNF140,Tumor_supressor,NA
+ZNF174,Tumor_supressor,NA
+ZNF175,Tumor_supressor,NA
+ZNF185,Tumor_supressor,NA
+ZNF195,Tumor_supressor,NA
+ZNF19,Tumor_supressor,NA
+ZNF205,Tumor_supressor,NA
+ZNF207,Tumor_supressor,NA
+ZNF212,Tumor_supressor,NA
+ZNF219,Tumor_supressor,NA
+ZNF224,Tumor_supressor,NA
+ZNF227,Tumor_supressor,NA
+ZNF233,Tumor_supressor,NA
+ZNF239,Tumor_supressor,NA
+ZNF251,Tumor_supressor,NA
+ZNF257,Tumor_supressor,NA
+ZNF25,Tumor_supressor,NA
+ZNF275,Tumor_supressor,NA
+ZNF281,Tumor_supressor,NA
+ZNF300,Tumor_supressor,NA
+ZNF304,Tumor_supressor,NA
+ZNF335,Tumor_supressor,NA
+ZNF33A,Tumor_supressor,NA
+ZNF350,Tumor_supressor,NA
+ZNF358,Tumor_supressor,NA
+ZNF365,Tumor_supressor,NA
+ZNF367,Tumor_supressor,NA
+ZNF385A,Tumor_supressor,NA
+ZNF385B,Tumor_supressor,NA
+ZNF3,Tumor_supressor,NA
+ZNF419,Tumor_supressor,NA
+ZNF431,Tumor_supressor,NA
+ZNF436,Tumor_supressor,NA
+ZNF438,Tumor_supressor,NA
+ZNF442,Tumor_supressor,NA
+ZNF469,Tumor_supressor,NA
+ZNF471,Tumor_supressor,NA
+ZNF474,Tumor_supressor,NA
+ZNF484,Tumor_supressor,NA
+ZNF490,Tumor_supressor,NA
+ZNF496,Tumor_supressor,NA
+ZNF500,Tumor_supressor,NA
+ZNF506,Tumor_supressor,NA
+ZNF518B,Tumor_supressor,NA
+ZNF521,Tumor_supressor,NA
+ZNF524,Tumor_supressor,NA
+ZNF529,Tumor_supressor,NA
+ZNF540,Tumor_supressor,NA
+ZNF551,Tumor_supressor,NA
+ZNF552,Tumor_supressor,NA
+ZNF561,Tumor_supressor,NA
+ZNF562,Tumor_supressor,NA
+ZNF565,Tumor_supressor,NA
+ZNF567,Tumor_supressor,NA
+ZNF570,Tumor_supressor,NA
+ZNF571,Tumor_supressor,NA
+ZNF580,Tumor_supressor,NA
+ZNF582,Tumor_supressor,NA
+ZNF584,Tumor_supressor,NA
+ZNF585B,Tumor_supressor,NA
+ZNF586,Tumor_supressor,NA
+ZNF587,Tumor_supressor,NA
+ZNF593,Tumor_supressor,NA
+ZNF596,Tumor_supressor,NA
+ZNF597,Tumor_supressor,NA
+ZNF624,Tumor_supressor,NA
+ZNF627,Tumor_supressor,NA
+ZNF629,Tumor_supressor,NA
+ZNF630,Tumor_supressor,NA
+ZNF638,Tumor_supressor,NA
+ZNF644,Tumor_supressor,NA
+ZNF652,Tumor_supressor,NA
+ZNF658,Tumor_supressor,NA
+ZNF664,Tumor_supressor,NA
+ZNF671,Tumor_supressor,NA
+ZNF675,Tumor_supressor,NA
+ZNF678,Tumor_supressor,NA
+ZNF680,Tumor_supressor,NA
+ZNF684,Tumor_supressor,NA
+ZNF697,Tumor_supressor,NA
+ZNF702P,Tumor_supressor,NA
+ZNF703,Tumor_supressor,NA
+ZNF70,Tumor_supressor,NA
+ZNF710,Tumor_supressor,NA
+ZNF718,Tumor_supressor,NA
+ZNF720,Tumor_supressor,NA
+ZNF737,Tumor_supressor,NA
+ZNF74,Tumor_supressor,NA
+ZNF763,Tumor_supressor,NA
+ZNF766,Tumor_supressor,NA
+ZNF76,Tumor_supressor,NA
+ZNF780A,Tumor_supressor,NA
+ZNF793,Tumor_supressor,NA
+ZNF813,Tumor_supressor,NA
+ZNF827,Tumor_supressor,NA
+ZNF831,Tumor_supressor,NA
+ZNF839,Tumor_supressor,NA
+ZNF83,Tumor_supressor,NA
+ZNF845,Tumor_supressor,NA
+ZNF846,Tumor_supressor,NA
+ZNF880,Tumor_supressor,NA
+ZNF883,Tumor_supressor,NA
+ZNF8,Tumor_supressor,NA
+ZNF92,Tumor_supressor,NA
+ZNF93,Tumor_supressor,NA
+ZNFX1,Tumor_supressor,NA
+ZNHIT3,Tumor_supressor,NA
+ZNHIT6,Tumor_supressor,NA
+ZP3,Tumor_supressor,NA
+ZSCAN20,Tumor_supressor,NA
+ZSCAN21,Tumor_supressor,NA
+ZSWIM1,Tumor_supressor,NA
+ZSWIM3,Tumor_supressor,NA
+ZSWIM7,Tumor_supressor,NA
+ZW10,Tumor_supressor,NA
+ZWILCH,Tumor_supressor,NA
+ZYX,Tumor_supressor,NA
+A4GALT,NA,Onco Gene
+AAAS,NA,Onco Gene
+ABCA7,NA,Onco Gene
+ABCC2,NA,Onco Gene
+ACAD8,NA,Onco Gene
+ACLY,NA,Onco Gene
+ACOT8,NA,Onco Gene
+ACP2,NA,Onco Gene
+ACSL4,NA,Onco Gene
+ACTA2,NA,Onco Gene
+ACTR1A,NA,Onco Gene
+ACTR3B,NA,Onco Gene
+ACYP1,NA,Onco Gene
+ADAM15,NA,Onco Gene
+ADAM17,NA,Onco Gene
+ADAMTS2,NA,Onco Gene
+ADAMTS4,NA,Onco Gene
+ADH5,NA,Onco Gene
+AEBP1,NA,Onco Gene
+AFF1,NA,Onco Gene
+AGBL5,NA,Onco Gene
+AGTRAP,NA,Onco Gene
+AKAP14,NA,Onco Gene
+AKAP1,NA,Onco Gene
+AKIRIN1,NA,Onco Gene
+AKR1A1,NA,Onco Gene
+AKR1B10,NA,Onco Gene
+AKR7A2,NA,Onco Gene
+ALB,NA,Onco Gene
+ALDH1A3,NA,Onco Gene
+ALDH3B2,NA,Onco Gene
+ALG10B,NA,Onco Gene
+ALG1L,NA,Onco Gene
+ALG1,NA,Onco Gene
+ALG3,NA,Onco Gene
+ALG6,NA,Onco Gene
+ALG9,NA,Onco Gene
+AMACR,NA,Onco Gene
+AMD1,NA,Onco Gene
+AMFR,NA,Onco Gene
+AMIGO2,NA,Onco Gene
+AMMECR1L,NA,Onco Gene
+ANGEL2,NA,Onco Gene
+ANKRD13A,NA,Onco Gene
+ANKRD13D,NA,Onco Gene
+ANKRD44,NA,Onco Gene
+ANKRD9,NA,Onco Gene
+ANO6,NA,Onco Gene
+ANTXR1,NA,Onco Gene
+ANXA2,NA,Onco Gene
+ANXA7,NA,Onco Gene
+AOC2,NA,Onco Gene
+AP1G1,NA,Onco Gene
+AP3D1,NA,Onco Gene
+AP3M1,NA,Onco Gene
+AP4B1,NA,Onco Gene
+APLN,NA,Onco Gene
+APOBEC3D,NA,Onco Gene
+ARAP2,NA,Onco Gene
+AREG,NA,Onco Gene
+ARFIP1,NA,Onco Gene
+ARHGAP21,NA,Onco Gene
+ARHGAP30,NA,Onco Gene
+ARHGAP4,NA,Onco Gene
+ARHGAP8,NA,Onco Gene
+ARHGEF1,NA,Onco Gene
+ARHGEF5,NA,Onco Gene
+ARID4B,NA,Onco Gene
+ARL1,NA,Onco Gene
+ARL5B,NA,Onco Gene
+ARSB,NA,Onco Gene
+ASB2,NA,Onco Gene
+ASB8,NA,Onco Gene
+ASPSCR1,NA,Onco Gene
+ASXL1,NA,Onco Gene
+ASXL2,NA,Onco Gene
+ATP10A,NA,Onco Gene
+ATP10D,NA,Onco Gene
+ATP1B2,NA,Onco Gene
+ATP1B3,NA,Onco Gene
+ATP6V0C,NA,Onco Gene
+ATP6V1G1,NA,Onco Gene
+ATP8B1,NA,Onco Gene
+ATP9B,NA,Onco Gene
+ATRX,NA,Onco Gene
+ATXN10,NA,Onco Gene
+ATXN2L,NA,Onco Gene
+ATXN7L2,NA,Onco Gene
+AUP1,NA,Onco Gene
+B3GALNT1,NA,Onco Gene
+B3GALT4,NA,Onco Gene
+B3GALT6,NA,Onco Gene
+B3GNT6,NA,Onco Gene
+B4GALNT1,NA,Onco Gene
+B4GALNT3,NA,Onco Gene
+BAG4,NA,Onco Gene
+BARX1,NA,Onco Gene
+BAZ1A,NA,Onco Gene
+BBC3,NA,Onco Gene
+BCAS2,NA,Onco Gene
+BCL11A,NA,Onco Gene
+BCL9,NA,Onco Gene
+BCOR,NA,Onco Gene
+BEX5,NA,Onco Gene
+BIRC6,NA,Onco Gene
+BLNK,NA,Onco Gene
+BLOC1S3,NA,Onco Gene
+BMPR1A,NA,Onco Gene
+BRD7,NA,Onco Gene
+BRMS1L,NA,Onco Gene
+BSCL2,NA,Onco Gene
+BTN2A2,NA,Onco Gene
+C15orf40,NA,Onco Gene
+C19orf12,NA,Onco Gene
+C19orf38,NA,Onco Gene
+C1R,NA,Onco Gene
+C1orf109,NA,Onco Gene
+C1orf194,NA,Onco Gene
+C1orf226,NA,Onco Gene
+C1orf35,NA,Onco Gene
+C1orf43,NA,Onco Gene
+C1orf50,NA,Onco Gene
+C1orf54,NA,Onco Gene
+C20orf85,NA,Onco Gene
+C2CD4C,NA,Onco Gene
+C3AR1,NA,Onco Gene
+C3orf33,NA,Onco Gene
+C5orf49,NA,Onco Gene
+C6orf118,NA,Onco Gene
+C6orf141,NA,Onco Gene
+CACNA2D1,NA,Onco Gene
+CACNB1,NA,Onco Gene
+CAMK1,NA,Onco Gene
+CAPN6,NA,Onco Gene
+CARD6,NA,Onco Gene
+CASP1,NA,Onco Gene
+CBFA2T2,NA,Onco Gene
+CBL,NA,Onco Gene
+CCBE1,NA,Onco Gene
+CCDC59,NA,Onco Gene
+CCDC78,NA,Onco Gene
+CCDC80,NA,Onco Gene
+CCK,NA,Onco Gene
+CCL4L2,NA,Onco Gene
+CCNYL1,NA,Onco Gene
+CD19,NA,Onco Gene
+CD200R1,NA,Onco Gene
+CD274,NA,Onco Gene
+CD320,NA,Onco Gene
+CD3E,NA,Onco Gene
+CD40LG,NA,Onco Gene
+CD5,NA,Onco Gene
+CD6,NA,Onco Gene
+CD72,NA,Onco Gene
+CD79B,NA,Onco Gene
+CDC16,NA,Onco Gene
+CDC23,NA,Onco Gene
+CDK10,NA,Onco Gene
+CDK13,NA,Onco Gene
+CDKN2AIPNL,NA,Onco Gene
+CDRT4,NA,Onco Gene
+CEACAM6,NA,Onco Gene
+CECR2,NA,Onco Gene
+CELSR2,NA,Onco Gene
+CEP192,NA,Onco Gene
+CEP350,NA,Onco Gene
+CEP70,NA,Onco Gene
+CHCHD2,NA,Onco Gene
+CHD6,NA,Onco Gene
+CHD7,NA,Onco Gene
+CHGB,NA,Onco Gene
+CHRAC1,NA,Onco Gene
+CHST1,NA,Onco Gene
+CHST3,NA,Onco Gene
+CIAO1,NA,Onco Gene
+CIC,NA,Onco Gene
+CILP,NA,Onco Gene
+CISH,NA,Onco Gene
+CIT,NA,Onco Gene
+CKB,NA,Onco Gene
+CLCA2,NA,Onco Gene
+CLEC10A,NA,Onco Gene
+CLEC4E,NA,Onco Gene
+CLEC5A,NA,Onco Gene
+CLGN,NA,Onco Gene
+CLOCK,NA,Onco Gene
+CLP1,NA,Onco Gene
+CLPTM1,NA,Onco Gene
+CLTB,NA,Onco Gene
+CMPK1,NA,Onco Gene
+CMPK2,NA,Onco Gene
+CNIH3,NA,Onco Gene
+CNOT6,NA,Onco Gene
+COL15A1,NA,Onco Gene
+COL6A1,NA,Onco Gene
+COL9A3,NA,Onco Gene
+COMMD5,NA,Onco Gene
+COPZ1,NA,Onco Gene
+COQ3,NA,Onco Gene
+COX11,NA,Onco Gene
+COX16,NA,Onco Gene
+COX18,NA,Onco Gene
+COX5A,NA,Onco Gene
+COX6C,NA,Onco Gene
+COX7B,NA,Onco Gene
+CREB1,NA,Onco Gene
+CREM,NA,Onco Gene
+CRYBG3,NA,Onco Gene
+CSF1R,NA,Onco Gene
+CTLA4,NA,Onco Gene
+CTR9,NA,Onco Gene
+CTSZ,NA,Onco Gene
+CWC27,NA,Onco Gene
+CWF19L2,NA,Onco Gene
+CXCL3,NA,Onco Gene
+CXorf56,NA,Onco Gene
+CYB5B,NA,Onco Gene
+CYB5RL,NA,Onco Gene
+CYBB,NA,Onco Gene
+CYCS,NA,Onco Gene
+CYFIP1,NA,Onco Gene
+CYP2D6,NA,Onco Gene
+CYTH2,NA,Onco Gene
+DACT1,NA,Onco Gene
+DAGLB,NA,Onco Gene
+DCAF15,NA,Onco Gene
+DCAF16,NA,Onco Gene
+DCAF6,NA,Onco Gene
+DCTN2,NA,Onco Gene
+DCTN6,NA,Onco Gene
+DDR1,NA,Onco Gene
+DDX60,NA,Onco Gene
+DEAF1,NA,Onco Gene
+DEF8,NA,Onco Gene
+DENND1C,NA,Onco Gene
+DENND5A,NA,Onco Gene
+DFFB,NA,Onco Gene
+DGCR8,NA,Onco Gene
+DGUOK,NA,Onco Gene
+DHPS,NA,Onco Gene
+DHRS7,NA,Onco Gene
+DHRS9,NA,Onco Gene
+DHX29,NA,Onco Gene
+DHX40,NA,Onco Gene
+DLGAP4,NA,Onco Gene
+DLL4,NA,Onco Gene
+DMTF1,NA,Onco Gene
+DNAH12,NA,Onco Gene
+DNAJB1,NA,Onco Gene
+DNAJB9,NA,Onco Gene
+DNAJC5B,NA,Onco Gene
+DOCK3,NA,Onco Gene
+DOCK7,NA,Onco Gene
+DOK1,NA,Onco Gene
+DPCD,NA,Onco Gene
+DPH1,NA,Onco Gene
+DPH5,NA,Onco Gene
+DPYD,NA,Onco Gene
+DPYSL3,NA,Onco Gene
+DUSP28,NA,Onco Gene
+DYNC1H1,NA,Onco Gene
+DYRK4,NA,Onco Gene
+EBF1,NA,Onco Gene
+EDEM1,NA,Onco Gene
+EEFSEC,NA,Onco Gene
+EFCAB10,NA,Onco Gene
+EFHB,NA,Onco Gene
+EFNA5,NA,Onco Gene
+EFNB1,NA,Onco Gene
+EGFL7,NA,Onco Gene
+EGLN1,NA,Onco Gene
+EIF1B,NA,Onco Gene
+EIF1,NA,Onco Gene
+EIF3CL,NA,Onco Gene
+EIF3D,NA,Onco Gene
+EIF3G,NA,Onco Gene
+EIF5B,NA,Onco Gene
+ELF3,NA,Onco Gene
+EME2,NA,Onco Gene
+EMP1,NA,Onco Gene
+ENAH,NA,Onco Gene
+ENO3,NA,Onco Gene
+ENOX2,NA,Onco Gene
+ENTPD1,NA,Onco Gene
+EPB41,NA,Onco Gene
+EPHA4,NA,Onco Gene
+EPN2,NA,Onco Gene
+EPS8,NA,Onco Gene
+ERCC6,NA,Onco Gene
+ERGIC1,NA,Onco Gene
+ESRRA,NA,Onco Gene
+ETAA1,NA,Onco Gene
+EWSR1,NA,Onco Gene
+F2R,NA,Onco Gene
+F5,NA,Onco Gene
+FAHD2B,NA,Onco Gene
+FAM117B,NA,Onco Gene
+FAM120B,NA,Onco Gene
+FAM161A,NA,Onco Gene
+FAM171A2,NA,Onco Gene
+FAM200A,NA,Onco Gene
+FBLIM1,NA,Onco Gene
+FBN1,NA,Onco Gene
+FBN2,NA,Onco Gene
+FBXO17,NA,Onco Gene
+FBXW9,NA,Onco Gene
+FCGR2B,NA,Onco Gene
+FCRL3,NA,Onco Gene
+FECH,NA,Onco Gene
+FES,NA,Onco Gene
+FFAR2,NA,Onco Gene
+FGF13,NA,Onco Gene
+FGF7,NA,Onco Gene
+FGFBP1,NA,Onco Gene
+FGG,NA,Onco Gene
+FKBP15,NA,Onco Gene
+FLT3LG,NA,Onco Gene
+FNTA,NA,Onco Gene
+FOSB,NA,Onco Gene
+FOXK2,NA,Onco Gene
+FOXP4,NA,Onco Gene
+FPR1,NA,Onco Gene
+FRRS1,NA,Onco Gene
+FSTL3,NA,Onco Gene
+FUNDC1,NA,Onco Gene
+G6PC3,NA,Onco Gene
+GAPVD1,NA,Onco Gene
+GAS2L1,NA,Onco Gene
+GATAD1,NA,Onco Gene
+GBP3,NA,Onco Gene
+GCC2,NA,Onco Gene
+GDF15,NA,Onco Gene
+GGT5,NA,Onco Gene
+GK5,NA,Onco Gene
+GLB1L2,NA,Onco Gene
+GLI3,NA,Onco Gene
+GLIS3,NA,Onco Gene
+GLT8D1,NA,Onco Gene
+GLUD1,NA,Onco Gene
+GMCL1,NA,Onco Gene
+GMIP,NA,Onco Gene
+GNA11,NA,Onco Gene
+GNAI2,NA,Onco Gene
+GNB5,NA,Onco Gene
+GNG10,NA,Onco Gene
+GOLGA8A,NA,Onco Gene
+GOLPH3L,NA,Onco Gene
+GPATCH3,NA,Onco Gene
+GPATCH8,NA,Onco Gene
+GPR34,NA,Onco Gene
+GRAP2,NA,Onco Gene
+GRHL1,NA,Onco Gene
+GRPEL2,NA,Onco Gene
+GTF2A2,NA,Onco Gene
+GTF2F2,NA,Onco Gene
+GTF3C4,NA,Onco Gene
+GTF3C5,NA,Onco Gene
+GUSB,NA,Onco Gene
+HAGH,NA,Onco Gene
+HAS2,NA,Onco Gene
+HAUS2,NA,Onco Gene
+HAUS5,NA,Onco Gene
+HBS1L,NA,Onco Gene
+HCP5,NA,Onco Gene
+HELZ,NA,Onco Gene
+HLA-B,NA,Onco Gene
+HLA-DRB6,NA,Onco Gene
+HLA-G,NA,Onco Gene
+HMGCR,NA,Onco Gene
+HMGCS2,NA,Onco Gene
+HMOX1,NA,Onco Gene
+HNF1A,NA,Onco Gene
+HNRNPA1,NA,Onco Gene
+HNRNPA2B1,NA,Onco Gene
+HNRNPH1,NA,Onco Gene
+HS3ST2,NA,Onco Gene
+HSD17B10,NA,Onco Gene
+HSPA1L,NA,Onco Gene
+HTATSF1,NA,Onco Gene
+HTR2B,NA,Onco Gene
+HTRA4,NA,Onco Gene
+HYDIN,NA,Onco Gene
+ICA1,NA,Onco Gene
+IER5L,NA,Onco Gene
+IFI35,NA,Onco Gene
+IFIT3,NA,Onco Gene
+IGFBP2,NA,Onco Gene
+IL17RB,NA,Onco Gene
+IL17RD,NA,Onco Gene
+IL18R1,NA,Onco Gene
+IL1A,NA,Onco Gene
+IL1B,NA,Onco Gene
+IL1RL1,NA,Onco Gene
+IL7,NA,Onco Gene
+ILKAP,NA,Onco Gene
+IMMP1L,NA,Onco Gene
+IMPA2,NA,Onco Gene
+INA,NA,Onco Gene
+INO80C,NA,Onco Gene
+INO80D,NA,Onco Gene
+INPP5D,NA,Onco Gene
+INPP5F,NA,Onco Gene
+INSM1,NA,Onco Gene
+INTS12,NA,Onco Gene
+INTS3,NA,Onco Gene
+IPO11,NA,Onco Gene
+IQCD,NA,Onco Gene
+ISM1,NA,Onco Gene
+ITGA2B,NA,Onco Gene
+ITGA2,NA,Onco Gene
+ITGA4,NA,Onco Gene
+ITGAX,NA,Onco Gene
+ITGB5,NA,Onco Gene
+ITIH4,NA,Onco Gene
+JMY,NA,Onco Gene
+KBTBD11,NA,Onco Gene
+KCNQ2,NA,Onco Gene
+KCTD13,NA,Onco Gene
+KCTD15,NA,Onco Gene
+KCTD7,NA,Onco Gene
+KDM4A,NA,Onco Gene
+KDM4B,NA,Onco Gene
+KEAP1,NA,Onco Gene
+KHNYN,NA,Onco Gene
+KIAA0513,NA,Onco Gene
+KIAA0895L,NA,Onco Gene
+KIAA0895,NA,Onco Gene
+KIAA1522,NA,Onco Gene
+KIF5B,NA,Onco Gene
+KIFC2,NA,Onco Gene
+KLF9,NA,Onco Gene
+KLHDC7B,NA,Onco Gene
+KLHL6,NA,Onco Gene
+KLHL7,NA,Onco Gene
+KPNA6,NA,Onco Gene
+KPTN,NA,Onco Gene
+KRTCAP2,NA,Onco Gene
+LAMA3,NA,Onco Gene
+LASP1,NA,Onco Gene
+LAT2,NA,Onco Gene
+LEPROTL1,NA,Onco Gene
+LGALS8,NA,Onco Gene
+LHFPL2,NA,Onco Gene
+LHX6,NA,Onco Gene
+LILRA5,NA,Onco Gene
+LIPT2,NA,Onco Gene
+LNX1,NA,Onco Gene
+LOX,NA,Onco Gene
+LPCAT4,NA,Onco Gene
+LRFN3,NA,Onco Gene
+LRRC1,NA,Onco Gene
+LRRC43,NA,Onco Gene
+LRRC58,NA,Onco Gene
+LTB4R2,NA,Onco Gene
+LTV1,NA,Onco Gene
+LUZP1,NA,Onco Gene
+LY75,NA,Onco Gene
+LYPD5,NA,Onco Gene
+LYSMD1,NA,Onco Gene
+LYSMD2,NA,Onco Gene
+MAGEA12,NA,Onco Gene
+MAGEA4,NA,Onco Gene
+MAK16,NA,Onco Gene
+MALL,NA,Onco Gene
+MAMLD1,NA,Onco Gene
+MANBAL,NA,Onco Gene
+MAP2K2,NA,Onco Gene
+MAP2K6,NA,Onco Gene
+MAP3K8,NA,Onco Gene
+MAP7,NA,Onco Gene
+MAPK8IP3,NA,Onco Gene
+MARK4,NA,Onco Gene
+MBD1,NA,Onco Gene
+MBP,NA,Onco Gene
+MCC,NA,Onco Gene
+MCRS1,NA,Onco Gene
+MCTP2,NA,Onco Gene
+MDC1,NA,Onco Gene
+MDH1B,NA,Onco Gene
+MECR,NA,Onco Gene
+MED19,NA,Onco Gene
+MED4,NA,Onco Gene
+MESP2,NA,Onco Gene
+MFSD10,NA,Onco Gene
+MFSD8,NA,Onco Gene
+MIA3,NA,Onco Gene
+MKLN1,NA,Onco Gene
+MKS1,NA,Onco Gene
+MMP25,NA,Onco Gene
+MNT,NA,Onco Gene
+MOCS3,NA,Onco Gene
+MORN1,NA,Onco Gene
+MOSPD2,NA,Onco Gene
+MPHOSPH10,NA,Onco Gene
+MRC1,NA,Onco Gene
+MRC2,NA,Onco Gene
+MRPL16,NA,Onco Gene
+MRPL18,NA,Onco Gene
+MRPL27,NA,Onco Gene
+MRPL38,NA,Onco Gene
+MRPL39,NA,Onco Gene
+MRPL45,NA,Onco Gene
+MRPL48,NA,Onco Gene
+MRPS11,NA,Onco Gene
+MRPS16,NA,Onco Gene
+MRPS18C,NA,Onco Gene
+MRPS21,NA,Onco Gene
+MSI1,NA,Onco Gene
+MTF1,NA,Onco Gene
+MTF2,NA,Onco Gene
+MTMR12,NA,Onco Gene
+MVD,NA,Onco Gene
+MYH9,NA,Onco Gene
+MYNN,NA,Onco Gene
+MYO6,NA,Onco Gene
+MYSM1,NA,Onco Gene
+N4BP2,NA,Onco Gene
+"NAA40",NA,Onco Gene
+"NACC2",NA,Onco Gene
+"NAGPA",NA,Onco Gene
+"NANOS1",NA,Onco Gene
+"NAP1L3",NA,Onco Gene
+"NAV3",NA,Onco Gene
+NCKIPSD,NA,Onco Gene
+NCOA5,NA,Onco Gene
+NDUFA13,NA,Onco Gene
+NDUFA5,NA,Onco Gene
+NDUFAB1,NA,Onco Gene
+NDUFB2,NA,Onco Gene
+NDUFC2,NA,Onco Gene
+NDUFV2,NA,Onco Gene
+NEB,NA,Onco Gene
+NENF,NA,Onco Gene
+NEU1,NA,Onco Gene
+NFATC2IP,NA,Onco Gene
+NFKBIB,NA,Onco Gene
+NINJ1,NA,Onco Gene
+NIN,NA,Onco Gene
+NIT1,NA,Onco Gene
+NLRC3,NA,Onco Gene
+NNMT,NA,Onco Gene
+NOL7,NA,Onco Gene
+NOL8,NA,Onco Gene
+NOTCH3,NA,Onco Gene
+NOXA1,NA,Onco Gene
+NPL,NA,Onco Gene
+NPRL2,NA,Onco Gene
+NQO2,NA,Onco Gene
+NRAS,NA,Onco Gene
+NRL,NA,Onco Gene
+NSDHL,NA,Onco Gene
+NSUN5P2,NA,Onco Gene
+NSUN6,NA,Onco Gene
+NT5C,NA,Onco Gene
+NT5M,NA,Onco Gene
+NTN4,NA,Onco Gene
+NTSR1,NA,Onco Gene
+NUAK1,NA,Onco Gene
+NUCB2,NA,Onco Gene
+NUDT2,NA,Onco Gene
+NUDT8,NA,Onco Gene
+OAZ1,NA,Onco Gene
+ODF2L,NA,Onco Gene
+OGT,NA,Onco Gene
+OSBPL10,NA,Onco Gene
+OSBPL8,NA,Onco Gene
+OSGIN2,NA,Onco Gene
+PACRGL,NA,Onco Gene
+PACS1,NA,Onco Gene
+PADI2,NA,Onco Gene
+PAG1,NA,Onco Gene
+PAPOLG,NA,Onco Gene
+PAPPA,NA,Onco Gene
+PAQR7,NA,Onco Gene
+PARN,NA,Onco Gene
+PARP6,NA,Onco Gene
+PARP9,NA,Onco Gene
+PARVB,NA,Onco Gene
+PCBD2,NA,Onco Gene
+PCNT,NA,Onco Gene
+PCOLCE,NA,Onco Gene
+PCYT1A,NA,Onco Gene
+PDIK1L,NA,Onco Gene
+PDS5A,NA,Onco Gene
+PDS5B,NA,Onco Gene
+PDXP,NA,Onco Gene
+PEA15,NA,Onco Gene
+PECR,NA,Onco Gene
+PELI3,NA,Onco Gene
+PELO,NA,Onco Gene
+PEX26,NA,Onco Gene
+PHAX,NA,Onco Gene
+PHF13,NA,Onco Gene
+PHPT1,NA,Onco Gene
+PHTF1,NA,Onco Gene
+PHTF2,NA,Onco Gene
+PI4KAP1,NA,Onco Gene
+PI4KB,NA,Onco Gene
+PIAS2,NA,Onco Gene
+PIAS4,NA,Onco Gene
+PICALM,NA,Onco Gene
+PIGM,NA,Onco Gene
+PIGT,NA,Onco Gene
+PIGV,NA,Onco Gene
+PIK3CD,NA,Onco Gene
+PIK3R6,NA,Onco Gene
+PIP5KL1,NA,Onco Gene
+PKP2,NA,Onco Gene
+PKP4,NA,Onco Gene
+PLA2G2A,NA,Onco Gene
+PLA2G2D,NA,Onco Gene
+PLCG1,NA,Onco Gene
+PLCG2,NA,Onco Gene
+PLCH2,NA,Onco Gene
+PLD4,NA,Onco Gene
+PLEKHA7,NA,Onco Gene
+PLEKHB2,NA,Onco Gene
+PLEKHF1,NA,Onco Gene
+PLEKHG1,NA,Onco Gene
+PLEKHG4,NA,Onco Gene
+PLEKHO1,NA,Onco Gene
+PLP2,NA,Onco Gene
+PLVAP,NA,Onco Gene
+PLXNA3,NA,Onco Gene
+PNN,NA,Onco Gene
+PODXL2,NA,Onco Gene
+POFUT2,NA,Onco Gene
+POLE3,NA,Onco Gene
+POLM,NA,Onco Gene
+POLR2G,NA,Onco Gene
+POLR3K,NA,Onco Gene
+POMGNT1,NA,Onco Gene
+POP5,NA,Onco Gene
+PPBP,NA,Onco Gene
+PPIB,NA,Onco Gene
+PPIL3,NA,Onco Gene
+PPP1CC,NA,Onco Gene
+PPP1R11,NA,Onco Gene
+PPP1R14C,NA,Onco Gene
+PPP1R16A,NA,Onco Gene
+PPP2R2D,NA,Onco Gene
+PPP3R1,NA,Onco Gene
+PPT1,NA,Onco Gene
+PRCP,NA,Onco Gene
+PRDX2,NA,Onco Gene
+PRDX3,NA,Onco Gene
+PRELID2,NA,Onco Gene
+PREX1,NA,Onco Gene
+PRKCB,NA,Onco Gene
+PRKCD,NA,Onco Gene
+PRPF4B,NA,Onco Gene
+PRR5L,NA,Onco Gene
+PRR5,NA,Onco Gene
+PSMG2,NA,Onco Gene
+PTBP2,NA,Onco Gene
+PTGR1,NA,Onco Gene
+PTGR2,NA,Onco Gene
+PTK7,NA,Onco Gene
+PTP4A3,NA,Onco Gene
+PTPRE,NA,Onco Gene
+PTPRF,NA,Onco Gene
+PTRH1,NA,Onco Gene
+PTS,NA,Onco Gene
+PWWP2A,NA,Onco Gene
+PXDN,NA,Onco Gene
+QRICH1,NA,Onco Gene
+RAB12,NA,Onco Gene
+RAB13,NA,Onco Gene
+RAB21,NA,Onco Gene
+RAB22A,NA,Onco Gene
+RAB3A,NA,Onco Gene
+RAB3GAP1,NA,Onco Gene
+RAC2,NA,Onco Gene
+RAD21,NA,Onco Gene
+RALA,NA,Onco Gene
+RALGAPA1,NA,Onco Gene
+RALGAPB,NA,Onco Gene
+RAP1GDS1,NA,Onco Gene
+RAPGEFL1,NA,Onco Gene
+RASA3,NA,Onco Gene
+RASL11B,NA,Onco Gene
+RASSF5,NA,Onco Gene
+RBM15,NA,Onco Gene
+RBM26,NA,Onco Gene
+RBM27,NA,Onco Gene
+RBM33,NA,Onco Gene
+RBM41,NA,Onco Gene
+RBMX,NA,Onco Gene
+RBP1,NA,Onco Gene
+RC3H1,NA,Onco Gene
+RDH13,NA,Onco Gene
+RELN,NA,Onco Gene
+REXO4,NA,Onco Gene
+RFXANK,NA,Onco Gene
+RGS16,NA,Onco Gene
+RHOF,NA,Onco Gene
+RHOG,NA,Onco Gene
+RHPN1,NA,Onco Gene
+RIBC2,NA,Onco Gene
+RIMS3,NA,Onco Gene
+RIN3,NA,Onco Gene
+RLIM,NA,Onco Gene
+RND1,NA,Onco Gene
+RNF138,NA,Onco Gene
+RNF144A,NA,Onco Gene
+RNF44,NA,Onco Gene
+RNF5,NA,Onco Gene
+RNF7,NA,Onco Gene
+RNPC3,NA,Onco Gene
+RP1,NA,Onco Gene
+RPIA,NA,Onco Gene
+RPL14,NA,Onco Gene
+RPL22,NA,Onco Gene
+RPL24,NA,Onco Gene
+RPL27A,NA,Onco Gene
+RPL28,NA,Onco Gene
+RPL30,NA,Onco Gene
+RPL35A,NA,Onco Gene
+RPL37A,NA,Onco Gene
+RPL7,NA,Onco Gene
+RPRD1A,NA,Onco Gene
+RPS15A,NA,Onco Gene
+RPS18,NA,Onco Gene
+RPS21,NA,Onco Gene
+RPS23,NA,Onco Gene
+RPS24,NA,Onco Gene
+RPS27A,NA,Onco Gene
+RPS27,NA,Onco Gene
+RPS3A,NA,Onco Gene
+RPS7,NA,Onco Gene
+RRP15,NA,Onco Gene
+RRP8,NA,Onco Gene
+S100A3,NA,Onco Gene
+S100PBP,NA,Onco Gene
+SAA1,NA,Onco Gene
+SAFB,NA,Onco Gene
+SALL1,NA,Onco Gene
+SAMD12,NA,Onco Gene
+SAMD14,NA,Onco Gene
+SAMD1,NA,Onco Gene
+SAMD9L,NA,Onco Gene
+SAMHD1,NA,Onco Gene
+SAMSN1,NA,Onco Gene
+SAP130,NA,Onco Gene
+SCLY,NA,Onco Gene
+SCOC,NA,Onco Gene
+SCRN1,NA,Onco Gene
+SDF2,NA,Onco Gene
+SDHAF2,NA,Onco Gene
+SDHB,NA,Onco Gene
+SECTM1,NA,Onco Gene
+SEL1L3,NA,Onco Gene
+SELE,NA,Onco Gene
+SELL,NA,Onco Gene
+SEMA3F,NA,Onco Gene
+SEMA4C,NA,Onco Gene
+SEPHS2,NA,Onco Gene
+SERPINA1,NA,Onco Gene
+SETD1B,NA,Onco Gene
+SF3A3,NA,Onco Gene
+SFRP4,NA,Onco Gene
+SFXN2,NA,Onco Gene
+SGSH,NA,Onco Gene
+SH3BP1,NA,Onco Gene
+SHROOM1,NA,Onco Gene
+SIGLEC6,NA,Onco Gene
+SIK3,NA,Onco Gene
+SIKE1,NA,Onco Gene
+SIL1,NA,Onco Gene
+SIPA1L3,NA,Onco Gene
+SIRPG,NA,Onco Gene
+SIRT5,NA,Onco Gene
+SIRT6,NA,Onco Gene
+SIVA1,NA,Onco Gene
+SLC15A1,NA,Onco Gene
+SLC20A2,NA,Onco Gene
+SLC25A19,NA,Onco Gene
+SLC26A9,NA,Onco Gene
+SLC27A2,NA,Onco Gene
+SLC27A5,NA,Onco Gene
+SLC30A5,NA,Onco Gene
+SLC31A1,NA,Onco Gene
+SLC39A13,NA,Onco Gene
+SLC6A14,NA,Onco Gene
+SLC9A7,NA,Onco Gene
+SLCO3A1,NA,Onco Gene
+SLFN11,NA,Onco Gene
+SLFN5,NA,Onco Gene
+SMAP2,NA,Onco Gene
+SMC1A,NA,Onco Gene
+SMYD3,NA,Onco Gene
+SNAPC3,NA,Onco Gene
+SNHG3,NA,Onco Gene
+SNIP1,NA,Onco Gene
+SNRNP70,NA,Onco Gene
+SNRPN,NA,Onco Gene
+SOCS3,NA,Onco Gene
+SOCS4,NA,Onco Gene
+SP100,NA,Onco Gene
+SPARC,NA,Onco Gene
+SPCS1,NA,Onco Gene
+SPCS2,NA,Onco Gene
+SPDYE6,NA,Onco Gene
+SPIB,NA,Onco Gene
+SPIN3,NA,Onco Gene
+SPINK4,NA,Onco Gene
+SPRED1,NA,Onco Gene
+SRA1,NA,Onco Gene
+SRP9,NA,Onco Gene
+SRPK3,NA,Onco Gene
+SS18,NA,Onco Gene
+SST,NA,Onco Gene
+ST8SIA4,NA,Onco Gene
+STAG2,NA,Onco Gene
+STAG3L4,NA,Onco Gene
+STAM,NA,Onco Gene
+STARD3NL,NA,Onco Gene
+STK10,NA,Onco Gene
+STK32B,NA,Onco Gene
+STK33,NA,Onco Gene
+STK4,NA,Onco Gene
+SUPT5H,NA,Onco Gene
+SUPT6H,NA,Onco Gene
+SV2A,NA,Onco Gene
+SYBU,NA,Onco Gene
+SYK,NA,Onco Gene
+SYT2,NA,Onco Gene
+SYTL1,NA,Onco Gene
+TAB3,NA,Onco Gene
+TAF1,NA,Onco Gene
+TAGLN,NA,Onco Gene
+TANC2,NA,Onco Gene
+TARBP1,NA,Onco Gene
+TAZ,NA,Onco Gene
+TBC1D22B,NA,Onco Gene
+TBC1D8B,NA,Onco Gene
+TBCK,NA,Onco Gene
+TBP,NA,Onco Gene
+TC2N,NA,Onco Gene
+TCEAL3,NA,Onco Gene
+TCF20,NA,Onco Gene
+TCF7,NA,Onco Gene
+TCHH,NA,Onco Gene
+TCHP,NA,Onco Gene
+TCP11L1,NA,Onco Gene
+TCTE3,NA,Onco Gene
+TDP2,NA,Onco Gene
+TESC,NA,Onco Gene
+TFAP2C,NA,Onco Gene
+TFAP2E,NA,Onco Gene
+TFF1,NA,Onco Gene
+TGFB3,NA,Onco Gene
+THAP1,NA,Onco Gene
+THBS4,NA,Onco Gene
+THEM4,NA,Onco Gene
+THOC5,NA,Onco Gene
+THUMPD1,NA,Onco Gene
+TIMM10,NA,Onco Gene
+TIMM13,NA,Onco Gene
+TJAP1,NA,Onco Gene
+TLE1,NA,Onco Gene
+TLE6,NA,Onco Gene
+TLN2,NA,Onco Gene
+TMCO1,NA,Onco Gene
+TMED4,NA,Onco Gene
+TMEM101,NA,Onco Gene
+TMEM106C,NA,Onco Gene
+TMEM14A,NA,Onco Gene
+TMEM160,NA,Onco Gene
+TMEM205,NA,Onco Gene
+TMEM229B,NA,Onco Gene
+TMEM233,NA,Onco Gene
+TMEM26,NA,Onco Gene
+TMEM39B,NA,Onco Gene
+TMEM42,NA,Onco Gene
+TMEM53,NA,Onco Gene
+TMEM59L,NA,Onco Gene
+TMEM63A,NA,Onco Gene
+TMPPE,NA,Onco Gene
+TNFAIP8L1,NA,Onco Gene
+TNFRSF10C,NA,Onco Gene
+TNIP3,NA,Onco Gene
+TNK1,NA,Onco Gene
+TNNI3,NA,Onco Gene
+TNNT2,NA,Onco Gene
+TOB2,NA,Onco Gene
+TP63,NA,Onco Gene
+TPD52,NA,Onco Gene
+TRADD,NA,Onco Gene
+TRIB1,NA,Onco Gene
+TRIM21,NA,Onco Gene
+TRIM24,NA,Onco Gene
+TRIM44,NA,Onco Gene
+TRIO,NA,Onco Gene
+TRMT11,NA,Onco Gene
+TRPC6,NA,Onco Gene
+TSHZ3,NA,Onco Gene
+TSPAN2,NA,Onco Gene
+TSPAN31,NA,Onco Gene
+TSPAN6,NA,Onco Gene
+TTC26,NA,Onco Gene
+TTC3,NA,Onco Gene
+TTL,NA,Onco Gene
+TUBGCP3,NA,Onco Gene
+TUBGCP6,NA,Onco Gene
+TWSG1,NA,Onco Gene
+TXLNG,NA,Onco Gene
+TXNL4B,NA,Onco Gene
+TYSND1,NA,Onco Gene
+TYW1,NA,Onco Gene
+UAP1L1,NA,Onco Gene
+UBA52,NA,Onco Gene
+UBAP1,NA,Onco Gene
+UBAP2,NA,Onco Gene
+UBE2E2,NA,Onco Gene
+UBE2R2,NA,Onco Gene
+UBL4A,NA,Onco Gene
+UBN1,NA,Onco Gene
+UBR4,NA,Onco Gene
+UBXN7,NA,Onco Gene
+UCK2,NA,Onco Gene
+UGGT2,NA,Onco Gene
+UNC50,NA,Onco Gene
+USH1C,NA,Onco Gene
+USP40,NA,Onco Gene
+UVRAG,NA,Onco Gene
+VDAC2,NA,Onco Gene
+VEGFC,NA,Onco Gene
+VHL,NA,Onco Gene
+VKORC1,NA,Onco Gene
+VLDLR,NA,Onco Gene
+VPS16,NA,Onco Gene
+VPS37A,NA,Onco Gene
+VPS41,NA,Onco Gene
+VTA1,NA,Onco Gene
+VWA3B,NA,Onco Gene
+WASL,NA,Onco Gene
+WDR33,NA,Onco Gene
+WFDC2,NA,Onco Gene
+WIPF1,NA,Onco Gene
+WWTR1,NA,Onco Gene
+YEATS4,NA,Onco Gene
+YRDC,NA,Onco Gene
+ZBED2,NA,Onco Gene
+ZBTB3,NA,Onco Gene
+ZBTB48,NA,Onco Gene
+ZBTB49,NA,Onco Gene
+ZDHHC5,NA,Onco Gene
+ZFAND3,NA,Onco Gene
+ZFAND5,NA,Onco Gene
+ZFP36L2,NA,Onco Gene
+ZFYVE26,NA,Onco Gene
+ZKSCAN3,NA,Onco Gene
+ZMYND12,NA,Onco Gene
+ZNF121,NA,Onco Gene
+ZNF124,NA,Onco Gene
+ZNF141,NA,Onco Gene
+ZNF142,NA,Onco Gene
+ZNF14,NA,Onco Gene
+ZNF18,NA,Onco Gene
+ZNF223,NA,Onco Gene
+ZNF232,NA,Onco Gene
+ZNF234,NA,Onco Gene
+ZNF268,NA,Onco Gene
+ZNF286A,NA,Onco Gene
+ZNF331,NA,Onco Gene
+ZNF334,NA,Onco Gene
+ZNF337,NA,Onco Gene
+ZNF346,NA,Onco Gene
+ZNF354A,NA,Onco Gene
+ZNF382,NA,Onco Gene
+ZNF395,NA,Onco Gene
+ZNF41,NA,Onco Gene
+ZNF449,NA,Onco Gene
+ZNF451,NA,Onco Gene
+ZNF460,NA,Onco Gene
+ZNF528,NA,Onco Gene
+ZNF557,NA,Onco Gene
+ZNF564,NA,Onco Gene
+ZNF566,NA,Onco Gene
+ZNF572,NA,Onco Gene
+ZNF575,NA,Onco Gene
+ZNF589,NA,Onco Gene
+ZNF605,NA,Onco Gene
+ZNF606,NA,Onco Gene
+ZNF619,NA,Onco Gene
+ZNF621,NA,Onco Gene
+ZNF625,NA,Onco Gene
+ZNF668,NA,Onco Gene
+ZNF674,NA,Onco Gene
+ZNF683,NA,Onco Gene
+ZNF692,NA,Onco Gene
+ZNF699,NA,Onco Gene
+ZNF708,NA,Onco Gene
+ZNF71,NA,Onco Gene
+ZNF785,NA,Onco Gene
+ZNF790,NA,Onco Gene
+ZNF805,NA,Onco Gene
+ZNF823,NA,Onco Gene
+ZNF84,NA,Onco Gene
+ZRANB2,NA,Onco Gene
+ZSCAN16,NA,Onco Gene
+ZSCAN18,NA,Onco Gene
+ZSCAN2,NA,Onco Gene
+ZSWIM4,NA,Onco Gene

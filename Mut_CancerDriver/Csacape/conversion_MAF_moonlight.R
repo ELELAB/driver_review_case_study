@@ -1,0 +1,43 @@
+##R script for MAF convertions to Cscape input
+
+#load functions
+library(tidyverse)
+source("/data/user/shared_projects/moonlight2/mutations/old_src/small_functions.R")
+
+#Read data
+
+
+input_MAF=read_csv("../inputfiles/mutations.csv")
+onco_gene=read_csv("../../Gene_CancerDriver/results/Moon_CancerGenes_EB_OCG.csv")
+ts_gene=read_csv("../../Gene_CancerDriver/results/Moon_CancerGenes_EB_TSG.csv")
+
+#removes extra colum and adds driver colum 
+onco_gene['onco_gene']='Onco Gene'
+onco_gene2=dplyr::select(onco_gene,-1)
+onco_gene3=dplyr::rename(onco_gene2,SYMBOL=x)
+
+ts_gene['TS']='Tumor_supressor'
+ts_gene2=dplyr::select(ts_gene,-1)
+ts_gene3=dplyr::rename(ts_gene2,SYMBOL=x)
+
+ml_drivers=full_join(ts_gene3,onco_gene3)
+#ml_drivers2=ml_drivers %>% replace(is.na(.), "none")
+write_csv(ml_drivers,file="./moonlight_driver.csv")
+
+#MAF with genes from moonlight
+moonlight_MAF=inner_join(ml_drivers,input_MAF)
+write_csv(moonlight_MAF,file="./moonlight_MAF.csv")
+
+
+#lift GRCh38
+lifted_MAF=LiftMAF(moonlight_MAF,"GRCh38")
+write_csv(lifted_MAF,file="./lifted_moonlight_MAF.csv")
+
+#convert MAF to cscape input
+
+cscape_input=MAFtoCscape(lifted_MAF)
+
+#rite file
+write.table(cscape_input,"./cscape_input_converted_MAF_moonlight.csv",sep=",",col.names=FALSE,row.names=FALSE,quote = FALSE)
+#write_csv(cscape_input,file="./cscape_input_converted_MAF_moonlight.csv", col_names=FALSE)
+
